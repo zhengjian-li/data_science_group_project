@@ -1,0 +1,2 @@
+Oded Goldreich (Hebrew: עודד גולדרייך; b. 1957) is a professor of computer science at the faculty of mathematics and computer science of the Weizmann Institute of Science, Israel. His research interests lie within the theory of computation and are, specifically, the interplay of randomness and computation, the foundations of cryptography, and computational complexity theory. He won the Knuth Prize in 2017 and was selected in 2021 to receive the Israel Prize in mathematics.
+

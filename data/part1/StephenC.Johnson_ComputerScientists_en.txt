@@ -1,0 +1,1 @@
+Stephen Curtis Johnson (born 1944) is a computer scientist who worked at Bell Labs and AT&T for nearly 20 years. He is best known for Yacc, Lint, spell, and the Portable C Compiler, which contributed to the spread of Unix and C. He has also contributed to fields as diverse as computer music, psychometrics and VLSI design.

@@ -1,0 +1,4 @@
+Silhouette Score (GloVe_Json): 0.14348720144362132
+Adjusted Rand Index (GloVe_Json): -0.0037497626732485288
+Fowlkes-Mallows Index (GloVe_Json): 0.4974874212840357
+Homogeneity Score (GloVe_Json): 0.0018223831548096713

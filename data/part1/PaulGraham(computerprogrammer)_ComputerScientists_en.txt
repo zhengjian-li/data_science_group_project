@@ -1,0 +1,3 @@
+Paul Graham (; born November 13, 1964) is an English-American computer scientist, writer, entrepreneur and investor. His work has included the programming language Lisp, the startup Viaweb (later renamed Yahoo! Store), co-founding the startup accelerator and seed capital firm Y Combinator, his essays, and Hacker News. 
+He is the author of the computer programming books On Lisp, ANSI Common Lisp, and Hackers & Painters. Technology journalist Steven Levy has described Graham as a "hacker philosopher".
+Graham was born in England, where he and his family maintain permanent residence. He is also a citizen of the United States, where he earned his degrees, and resided in until 2016.

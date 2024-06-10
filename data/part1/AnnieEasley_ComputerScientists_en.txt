@@ -1,0 +1,3 @@
+Annie Easley (April 23, 1933 – June 25, 2011) was an African American computer scientist and mathematician who made critical contributions to NASA's rocket systems and energy technologies.
+Easley's early work involved running simulations at NASA's Plum Brook Reactor Facility and studying the effects of rocket launches on earth's ozone layer. She taught herself assembly programming using languages like Formula Translating System (Fortran) and the Simple Object Access Protocol (SOAP) to help with these simulations. She would also work on developing code used in researching and analyzing alternative power technologies like batteries and fuel systems, which would be later used in hybrid vehicles and NASA's Centaur upper-stage rocket.
+

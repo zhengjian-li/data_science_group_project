@@ -1,0 +1,3 @@
+Martin Edward Hellman (born October 2, 1945) is an American cryptologist and mathematician, best known for his invention of public-key cryptography in cooperation with Whitfield Diffie and Ralph Merkle. Hellman is a longtime contributor to the computer privacy debate, and has applied risk analysis to a potential failure of nuclear deterrence.
+Hellman was elected a member of the National Academy of Engineering in 2002 for contributions to the theory and practice of cryptography.
+In 2016, he wrote a book with his wife, Dorothie Hellman, that links creating love at home to bringing peace to the planet (A New Map for Relationships: Creating True Love at Home and Peace on the Planet).

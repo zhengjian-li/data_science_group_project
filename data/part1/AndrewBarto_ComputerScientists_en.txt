@@ -1,0 +1,1 @@
+Andrew G. Barto (born c. 1948) is an American computer scientist, currently Professor Emeritus of computer science at University of Massachusetts Amherst. Barto is best known for his foundational contributions to the field of modern computational reinforcement learning.

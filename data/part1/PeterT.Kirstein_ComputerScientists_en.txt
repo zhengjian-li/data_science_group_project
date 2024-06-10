@@ -1,0 +1,2 @@
+Peter Thomas Kirstein   (né Kirschstein; 20 June 1933 – 8 January 2020) was a British computer scientist who played a role in the creation of the Internet. He made the first internetworking connection on the ARPANET in 1973, by providing a link to British academic networks, and was instrumental in defining and implementing TCP/IP alongside Vint Cerf and Bob Kahn.
+Kirstein is often recognized as the "father of the European Internet".

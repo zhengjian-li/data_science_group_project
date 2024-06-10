@@ -1,0 +1,4 @@
+Silhouette Score (Word2Vec_Json): 0.3433188199996948
+Adjusted Rand Index (Word2Vec_Json): 0.07809838144363496
+Fowlkes-Mallows Index (Word2Vec_Json): 0.5837060843381274
+Homogeneity Score (Word2Vec_Json): 0.07898573412031624

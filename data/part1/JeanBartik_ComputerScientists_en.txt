@@ -1,0 +1,5 @@
+Jean Bartik (née Betty Jean Jennings; December 27, 1924 – March 23, 2011) was an American computer programmer who was one of the original six programmers of the ENIAC computer.
+Bartik studied mathematics in school then began work at the University of Pennsylvania, first manually calculating ballistics trajectories and then using ENIAC to do so. The other five ENIAC programmers were Betty Holberton, Ruth Teitelbaum, Kathleen Antonelli, Marlyn Meltzer, and Frances Spence. Bartik and her colleagues developed and codified many of the fundamentals of programming while working on the ENIAC, since it was the first computer of its kind.
+After her work on ENIAC, Bartik went on to work on BINAC and UNIVAC, and spent time at a variety of technical companies as a writer, manager, engineer and programmer. She spent her later years as a real estate agent and died in 2011 from congestive heart failure complications.
+Content-management framework Drupal's default theme, Bartik, is named in her honor.
+

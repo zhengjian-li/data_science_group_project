@@ -1,0 +1,2 @@
+Silvio Micali (born October 13, 1954) is an Italian computer scientist, professor at the Massachusetts Institute of Technology and the founder of Algorand, a proof-of-stake blockchain cryptocurrency protocol. Micali's research at the MIT Computer Science and Artificial Intelligence Laboratory centers on cryptography and information security.
+In 2012, he received the Turing Award for his work in cryptography.

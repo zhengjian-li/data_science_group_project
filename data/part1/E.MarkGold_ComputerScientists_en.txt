@@ -1,0 +1,3 @@
+E. Mark Gold (often written "E Mark Gold" without a dot, born 1936 in Los Angeles): vi  is an American physicist, mathematician, and computer scientist. 
+He became well known for his article Language identification in the limit which pioneered a formal model for inductive inference of formal languages, mainly by computers.
+Since 1999, an award of the conference on Algorithmic learning theory is named after him.

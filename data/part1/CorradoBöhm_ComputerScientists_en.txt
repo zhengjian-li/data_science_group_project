@@ -1,0 +1,1 @@
+Corrado Böhm (17 January 1923 – 23 October 2017) was an Italian computer scientist and Professor Emeritus at the University of Rome "La Sapienza", known especially for his contributions to the theory of structured programming, constructive mathematics, combinatory logic, lambda calculus, and the semantics and implementation of functional programming languages.

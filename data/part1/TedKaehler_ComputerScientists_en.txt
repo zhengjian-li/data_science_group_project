@@ -1,0 +1,1 @@
+Ted Kaehler (born 1950) is an American computer scientist known for his role in the development of several system methods. He is most noted for his contributions to the programming languages Smalltalk, Squeak, and Apple Computer's HyperCard system, and other technologies developed at Xerox PARC.

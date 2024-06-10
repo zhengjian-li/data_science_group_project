@@ -1,0 +1,801 @@
+File,Matched_Entities,Matched_Entities_Count
+data/part1/AbedAbdi_Sculptors_en.txt,"['israeli', 'Abdi', 'israelis', 'Abed Abdi', 'israel', '1999']",6
+data/part1/AbhayBhushan_ComputerScientists_en.txt,"['Indian', 'Bhushan', 'Abhay Bhushan']",3
+data/part1/AdaLovelace_ComputerScientists_en.txt,"['Ada Byron', 'first', 'byron', 'countess', 'Byron', 'Ada', 'English', 'Lovelace', 'Countess', 'lovelace', 'ada', 'Augusta Ada King']",12
+data/part1/AdamDunkels_ComputerScientists_en.txt,"['Dunkels', 'Thingsquare', '2010', 'Swedish', 'dunkels', '1978', 'Adam Dunkels', '35']",8
+data/part1/AdeleGoldberg(computerscientist)_ComputerScientists_en.txt,"['Adele Goldberg', 'American']",2
+data/part1/AdolfBierbrauer_Sculptors_en.txt,"['German', 'Adolf Bierbrauer', 'german']",3
+"data/part1/Agasias,sonofDositheus_Sculptors_en.txt",[],0
+data/part1/AgimÇavdarbasha_Sculptors_en.txt,"['kosovo', 'Albanian', 'Çavdarbasha']",3
+data/part1/AgostinoCarlini_Sculptors_en.txt,"['Augostino', 'Italian', 'italian', 'carlini', 'Carlini']",5
+data/part1/AgostinodaSiena_Sculptors_en.txt,"['Agostino da Siena', 'Italian', 'Giovanni', 'giovanni', 'italian', 'agostino', 'Agostino da siena', 'Agostino']",8
+data/part1/AgostinodiDuccio_Sculptors_en.txt,"['Duccio', 'Italian', '1418', 'italian', 'agostino', 'Renaissance', 'duccio', 'Agostino']",8
+data/part1/AgustinCárdenas_Sculptors_en.txt,"['Cuba', 'cuban', 'Agustín Cárdenas Alfonso', 'cuba']",4
+data/part1/AhmedAlSafi_Sculptors_en.txt,"['Iraqi', 'Ahmed Al Safi', '1971']",3
+data/part1/AisaAmittu_Sculptors_en.txt,['Aisa Amittu'],1
+data/part1/AlainColmerauer_ComputerScientists_en.txt,"['12', 'French']",2
+data/part1/AlanDix_ComputerScientists_en.txt,"['Alan John Dix', 'British', 'HCI']",3
+data/part1/AlanEdelman_ComputerScientists_en.txt,"['Julia', 'Alan Stuart Edelman', 'American']",3
+data/part1/AlanKay_ComputerScientists_en.txt,"['kay', 'Alan Curtis Kay', 'Kay', 'American']",4
+data/part1/AlashuaAningmiuq_Sculptors_en.txt,"['Alashua Aningmiuq', 'Canada']",2
+data/part1/AlbertoBurri_Sculptors_en.txt,"['Alberto Burri', 'italian', 'Italian']",3
+data/part1/AlbertoCiaramella_ComputerScientists_en.txt,"['1947', '40', 'Alberto Ciaramella', 'Italian', 'italian']",5
+data/part1/Aleijadinho_Sculptors_en.txt,"['Aleijadinho', 'brazil', 'Brazil', 'Antônio Francisco Lisboa', 'Colonial Brazil', 'aleijadinho']",6
+data/part1/AlessandroAlgardi_Sculptors_en.txt,"['Alessandro Algardi', 'italian', 'Italian']",3
+data/part1/AlexanderArchipenko_Sculptors_en.txt,"['Ukrainian', 'Olexandr', 'ALEKSANDR', 'aleksandr', 'olexandr', 'Arkhypenko', 'Oleksandr', 'Aleksandr', 'Олександр Порфирович Архипенко', 'Alexander Porfyrovych Archipenko']",10
+data/part1/AlexanderCalder_Sculptors_en.txt,"['american', 'American', 'Alexander Calder']",3
+data/part1/AlexanderDewdney_ComputerScientists_en.txt,"['Canadian', 'canadian', 'Alexander Keewatin Dewdney', 'Dewdney', 'dewdney']",5
+data/part1/AlexanderMilneCalder_Sculptors_en.txt,"['Alexander Milne Calder', 'Alexander milne calder']",2
+data/part1/AlexanderStirlingCalder_Sculptors_en.txt,"['american', 'American', 'alexander', 'Alexander Stirling Calder', 'Alexander']",5
+data/part1/AlfredAho_ComputerScientists_en.txt,"['Canadian', 'canadian', 'Alfred Vaino Aho']",3
+data/part1/AlfredBarye_Sculptors_en.txt,"['barye', 'france', 'Alfred Barye', 'Alf Barye', '1882', 'Le Fils', 'Barye', 'French']",8
+data/part1/AliceAdams(artist)_Sculptors_en.txt,"['american', 'Alice Adams', 'American']",3
+data/part1/AliceAycock_Sculptors_en.txt,"['american', 'American', 'Aycock', 'aycock', 'AYCOCK', 'Alice Aycock']",6
+data/part1/AliceChaplin_Sculptors_en.txt,['Alice Mary Chaplin'],1
+data/part1/Aljoscha(artist)_Sculptors_en.txt,"['Ukrainian', 'Potupin', '1974']",3
+data/part1/AlonzoChurch_ComputerScientists_en.txt,"['american', 'Alonzo Church', 'American', 'church', 'Church']",5
+data/part1/AloïsdeBeule_Sculptors_en.txt,"['Aloïs De Beule', 'Aloïs de Beule', 'belgian', 'Belgian']",4
+data/part1/AlstonHouseholder_ComputerScientists_en.txt,"['american', 'Alston Scott Householder', 'American']",3
+data/part1/AmandusAdamson_Sculptors_en.txt,"['Estonia', 'Amandus Heinrich Adamson', 'Estonian', 'estonia', 'estonian']",5
+data/part1/AmberAguirre_Sculptors_en.txt,"['American', 'Amber Aguirre', 'bfa', 'Aguirre', '1958']",5
+data/part1/AndreaAleksi_Sculptors_en.txt,"['Albanian', 'Andrea Alessi', 'Andrija Aleši', 'Venetian', 'Dalmatia']",5
+data/part1/AndrewAppel_ComputerScientists_en.txt,"['1960', 'New Jersey', 'Andrew Wilson Appel']",3
+data/part1/AndrewBarto_ComputerScientists_en.txt,"['barto', 'Barto', '1948', 'Andrew G. Barto']",4
+data/part1/AndrewBurton(sculptor)_Sculptors_en.txt,"['1961', 'English']",2
+data/part1/AndrewDonaldBooth_ComputerScientists_en.txt,"['Andrew Donald Booth', 'British', 'Booth']",3
+data/part1/AndrewHerbert_ComputerScientists_en.txt,"['Andrew James Herbert', 'British', '1954']",3
+data/part1/AndrewKoenig(programmer)_ComputerScientists_en.txt,['Andrew Richard Koenig'],1
+data/part1/AndrewMcCallum_ComputerScientists_en.txt,['Andrew McCallum'],1
+data/part1/AndrewV.Goldberg_ComputerScientists_en.txt,"['1960', 'Andrew Vladislav Goldberg', 'American']",3
+data/part1/AndreyErshov_ComputerScientists_en.txt,"['Andrey Petrovich Yershov', 'Yershov', 'Russian']",3
+data/part1/AndreyNikolaevichKolmogorov_ComputerScientists_en.txt,"['Andrey Nikolaevich Kolmogorov', 'Soviet', 'Russian']",3
+data/part1/AndriesvanDam_ComputerScientists_en.txt,"['Van Dam', 'Dutch', 'van Dam', 'Brown University']",4
+data/part1/AndrásBeck_Sculptors_en.txt,"['1911–1985', 'Hungarian', 'András Beck']",3
+data/part1/AndréBeauneveu_Sculptors_en.txt,['André Beauneveu'],1
+data/part1/AngelaConner_Sculptors_en.txt,"['Angela Conner', 'conner', 'Conner', '1935']",4
+data/part1/AngieJones_ComputerScientists_en.txt,['Angie Jones'],1
+"data/part1/AnilK.Jain(computerscientist,born1948)_ComputerScientists_en.txt","['Anil Kumar Jain', '1948']",2
+data/part1/AnitaBorg_ComputerScientists_en.txt,"['american', 'Anita Borg', 'American']",3
+data/part1/AnnaChromý_Sculptors_en.txt,"['chromy', 'Czech', 'Anna Chromy', 'Chromy']",4
+data/part1/AnneMarieCarl-Nielsen_Sculptors_en.txt,"['Carl Nielsen', 'Danish', 'Anne Marie Carl-Nielsen', 'Anne Marie Brodersen']",4
+data/part1/AnnieEasley_ComputerScientists_en.txt,"['NASA', 'Annie Easley', 'Easley', 'easley']",4
+data/part1/AnthonyCaro_Sculptors_en.txt,"['English', 'Anthony Alfred Caro']",2
+data/part1/AnthonyJamesBarr_ComputerScientists_en.txt,"['Anthony James Barr', 'Tony Barr', 'Jim Barr']",3
+data/part1/Antoine-DenisChaudet_Sculptors_en.txt,"['French', 'Antoine', 'antoine']",3
+data/part1/Antoine-FélixBouré_Sculptors_en.txt,"['Félix Bouré', 'Antoine Bouré', 'Antoine-Félix Bouré', 'Belgian']",4
+data/part1/Antoine-LouisBarye_Sculptors_en.txt,['Antoine-Louis Barye'],1
+data/part1/AntoineBourdelle_Sculptors_en.txt,"['france', 'Paris', '18', 'antoine bourdelle', 'Antoine Bourdelle', 'French']",6
+data/part1/AntoineCoysevox_Sculptors_en.txt,"['29', 'Charles Antoine Coysevox']",2
+data/part1/AntonioAbondio_Sculptors_en.txt,"['İtaly', 'Italian', 'Antonio Abondio', 'italian', '1591', 'antonio abondio']",6
+data/part1/AntonioBerti(sculptor)_Sculptors_en.txt,"['Antonio Berti', 'italian', 'Italian']",3
+data/part1/AntonioCanova_Sculptors_en.txt,"['Neoclassical', 'Antonio Canova', 'italian', 'Italian']",4
+data/part1/AntunAugustinčić_Sculptors_en.txt,"['Croatian', 'Antun Augustinčić']",2
+data/part1/AravindK.Joshi_ComputerScientists_en.txt,"['Joshi', 'joshi', 'Aravind Krishna Joshi']",3
+data/part1/Armando(artist)_Sculptors_en.txt,"['Herman Dirk Van Dodeweerd', 'Herman Dirk van Dodeweerd', 'armando', 'Armando', 'Dutch']",5
+data/part1/ArmenAgop_Sculptors_en.txt,"['Armen Agop', '1969', 'Egyptian']",3
+data/part1/ArminBaumgarten_Sculptors_en.txt,['Armin Baumgarten'],1
+data/part1/ArnoBreker_Sculptors_en.txt,"['German', 'Breker', 'german', 'BREKER', 'Arno Breker', 'breker']",6
+data/part1/ArnoldFranzBrasz_Sculptors_en.txt,"['american', 'American', 'Arnold Franz Brasz', 'Brasz', 'brasz']",5
+data/part1/ArnolfodiCambio_Sculptors_en.txt,"['1300', 'Cambio', 'arnolfo', 'cambio', 'Italian', 'Arnolfo', 'italian']",7
+data/part1/ArtBrenner_Sculptors_en.txt,"['american', 'Art Brenner', 'American']",3
+data/part1/ArturBarrio_Sculptors_en.txt,"['Rio de Janeiro', 'Alipio Barrio de Sousa Lopes', 'brazil', 'Brazil']",4
+data/part1/AshokGoel_ComputerScientists_en.txt,"['Ashok K. Goel', 'Goel']",2
+data/part1/AttaurRehmanKhan_ComputerScientists_en.txt,"['Atta ur Rehman Khan', 'Pakistan']",2
+data/part1/AvinashKak_ComputerScientists_en.txt,['1944'],1
+data/part1/BaccioBandinelli_Sculptors_en.txt,"['Baccio Bandinelli', 'Bartolomeo Brandini', 'italian']",3
+data/part1/BarbaraEngelhardt_ComputerScientists_en.txt,[],0
+data/part1/BarbaraLiskov_ComputerScientists_en.txt,"['Barbara Jane Huberman', 'liskov', 'American', 'Liskov', 'Barbara Liskov']",5
+data/part1/BarryBoehm_ComputerScientists_en.txt,"['Boehm', 'boehm', 'American', 'Barry William Boehm']",4
+data/part1/BartolomeoAmmanati_Sculptors_en.txt,"['AMMANNATI', 'Ammanati', 'Signoria', '1550', '1592', 'İtaly', 'Ammannati', 'ammannati', 'italian', 'Bartolomeo Ammannati', 'one', 'ammanati']",12
+data/part1/BartolomeoCavaceppi_Sculptors_en.txt,"['3', 'Cavaceppi', 'Italian', 'italian', 'cavaceppi', 'Bartolomeo Cavaceppi']",6
+data/part1/BeatriceAngle_Sculptors_en.txt,"['British', 'Beatrice Angle']",2
+data/part1/BenedettoAntelami_Sculptors_en.txt,"['Italian', '1230', 'Benedetto Antelami', 'italian', 'Parma']",5
+data/part1/BenitaArmstrong_Sculptors_en.txt,"['British', 'Benita Eleanora Armstrong']",2
+data/part1/BenjaminCreswick_Sculptors_en.txt,['Benjamin Creswick'],1
+data/part1/BenjaminPaulAkers_Sculptors_en.txt,"['american', 'American', 'Benjamin Paul Akers']",3
+data/part1/BenvenutoCellini_Sculptors_en.txt,"['Benvenuto Cellini', 'italian', 'Italian']",3
+data/part1/BerlindeDeBruyckere_Sculptors_en.txt,"['Berlinde De Bruyckere', 'Berlinde de Bruyckere', 'belgian', '1964', 'Belgian']",5
+data/part1/BernardGaller_ComputerScientists_en.txt,"['Bernard A. Galler', 'American']",2
+data/part1/BertBos_ComputerScientists_en.txt,"['Gijsbert', '1963', 'Dutch']",3
+data/part1/BertrandMeyer_ComputerScientists_en.txt,['French'],1
+data/part1/BethCullen-Kerridge_Sculptors_en.txt,"['Cullen-Kerridge', '1970', 'English', 'Beth Cullen-Kerridge']",4
+data/part1/BettyHolberton_ComputerScientists_en.txt,"['Holberton', 'ENIAC', 'Elizabeth Holberton', 'American']",4
+data/part1/BholekarSrihari_Sculptors_en.txt,"['india', 'India']",2
+data/part1/BillBarrett(artist)_Sculptors_en.txt,"['american', 'Bill Barrett', 'American']",3
+data/part1/BillGates_ComputerScientists_en.txt,"['american', 'Gates', 'American', 'Melinda', 'Microsoft', 'gates', '1975', '2008', 'GATES', 'microsoft', 'William Henry Gates III', '2000']",12
+data/part1/BillGropp_ComputerScientists_en.txt,"['Gropp', 'gropp']",2
+data/part1/BillJoy_ComputerScientists_en.txt,"['JOY', 'Joy', '2003', 'American', 'us', 'US', 'joy', 'William Nelson Joy']",8
+data/part1/BorisvanBerkum_Sculptors_en.txt,"['Boris van Berkum', 'Dutch']",2
+data/part1/BrendanEich_ComputerScientists_en.txt,"['JavaScript', 'Mozilla', 'American']",3
+data/part1/BrianHarris(translationresearcher)_ComputerScientists_en.txt,['Brian Harris'],1
+data/part1/BrianKernighan_ComputerScientists_en.txt,"['Canadian', 'canadian', 'kernighan', 'Brian Wilson Kernighan', 'Kernighan', '2015']",6
+data/part1/BruceArden_ComputerScientists_en.txt,"['American', 'Bruce Wesley Arden', '12', '16', 'Arden']",5
+data/part1/BryanCantrill_ComputerScientists_en.txt,"['American', '1973']",2
+data/part1/ButlerLampson_ComputerScientists_en.txt,['American'],1
+data/part1/BörjeLangefors_ComputerScientists_en.txt,"['Swedish', 'Börje Langefors', '21']",3
+data/part1/C.A.R.Hoare_ComputerScientists_en.txt,"['tony Hoare', 'Hoare', 'British', 'Tony Hoare', 'Charles Antony Richard Hoare', 'C. A. R. Hoare', 'hoare']",7
+data/part1/CaiusGabrielCibber_Sculptors_en.txt,['Gabriel Cibber'],1
+data/part1/CamilleBillops_Sculptors_en.txt,['Camille Josephine Billops'],1
+data/part1/CamilleClaudel_Sculptors_en.txt,"['Claudel', 'claudel', 'CLAUDEL', 'Camille Rosalie Claudel', 'French']",5
+data/part1/CarlConrads_Sculptors_en.txt,"['Carl H. Conrads', 'american', 'American', 'Hartford', 'Charles Conrads']",5
+data/part1/CarlHewitt_ComputerScientists_en.txt,"['Carl Eddie Hewitt', 'American']",2
+data/part1/CarlKesselman_ComputerScientists_en.txt,"['american', 'Carl Kesselman', 'Kesselman', 'American']",4
+data/part1/CarolinaBenedicks-Bruce_Sculptors_en.txt,"['Carolina Maria Benedicks-Bruce', 'Swedish']",2
+data/part1/CarolinePeddleBall_Sculptors_en.txt,"['Caroline Peddle Ball', 'american', 'American']",3
+data/part1/CarolineShawkBrooks_Sculptors_en.txt,"['Caroline Shawk Brooks', 'american', 'American']",3
+data/part1/CasparBuberl_Sculptors_en.txt,"['american', '370', 'American', '1834', 'Caspar Buberl']",5
+data/part1/CeciliaBerdichevsky_ComputerScientists_en.txt,"['argentine', 'Berdichevski', 'Cecilia Berdichevsky']",3
+data/part1/CeciliaR.Aragon_ComputerScientists_en.txt,"['aragon', 'Aragon', 'American']",3
+data/part1/CharlesBabbage_ComputerScientists_en.txt,"['babbage', '1991', 'English', 'BABBAGE', 'Babbage', 'Charles Babbage', '1832']",7
+data/part1/CharlesBachman_ComputerScientists_en.txt,"['Bachman', 'Charles William Bachman III', 'American']",3
+data/part1/CharlesE.Leiserson_ComputerScientists_en.txt,"['1953', 'Charles Eric Leiserson']",2
+data/part1/CharlesGeschke_ComputerScientists_en.txt,"['Charles Matthew ""Chuck"" Geschke', 'American']",2
+data/part1/CharlesH.Lindsey_ComputerScientists_en.txt,"['Charles Hodgson Lindsey', 'Lindsey', 'British']",3
+data/part1/CharlesStarkDraper_ComputerScientists_en.txt,"['Charles Stark', 'american', 'American']",3
+data/part1/CharlotteFroeseFischer_ComputerScientists_en.txt,"['Charlotte Froese Fischer', 'Canadian-American', 'mathematician', 'froese', 'Froese']",5
+data/part1/ChrisLattner_ComputerScientists_en.txt,"['American', 'Lattner', 'Christopher Arthur Lattner', 'lattner', '1978', 'llvm']",6
+data/part1/ChrisMcKinstry_ComputerScientists_en.txt,"['Kenneth Christopher McKinstry', 'McKinstry']",2
+data/part1/ChristianCardellCorbet_Sculptors_en.txt,"['Canadian', 'christian', 'Christian', 'canadian', '1966']",5
+data/part1/ChristineCharlesworth_Sculptors_en.txt,"['Christine Charlesworth', 'English', '1949']",3
+data/part1/ChristineCorday_Sculptors_en.txt,"['american', 'corday', 'American', 'Christine Corday', '1970', 'Corday']",6
+data/part1/ChristophBrüx_Sculptors_en.txt,"['Christoph Brüx', 'German', 'german']",3
+data/part1/Christophe-GabrielAllegrain_Sculptors_en.txt,"['Christophe-Gabriel Allegrain', 'French']",2
+data/part1/ChristopherJ.Date_ComputerScientists_en.txt,"['John Date', 'Chris']",2
+data/part1/ChristopherRicheEvans_ComputerScientists_en.txt,"['British', 'Christopher Riche Evans']",2
+data/part1/Chryssa_Sculptors_en.txt,"['american', 'CHRYSSA', 'American', 'Chryssa', 'Chryssa Vardea-Mavromichali', 'chryssa']",6
+data/part1/CincinnatoBaruzzi_Sculptors_en.txt,"['Cincinnato Baruzzi', 'italian', 'Italian']",3
+data/part1/ClaireColinet_Sculptors_en.txt,"['colinet', 'Colinet', 'Claire Jeanne Roberte Colinet', 'COLINET', 'French']",5
+data/part1/ClaudeBertin_Sculptors_en.txt,"['1705', 'Claude Bertin', 'French']",3
+data/part1/ClaudeCahun_Sculptors_en.txt,"['Mathilde Schwob', 'schwob', 'Lucy Renee', 'Claude Cahun', 'cahun', 'Cahun', 'Schwob', 'French']",8
+data/part1/ClaudeMichel_Sculptors_en.txt,"['claude michel', 'Claude michel', 'Clodion', 'clodion', 'Claude Michel']",5
+data/part1/ClemensvandenBroeck_Sculptors_en.txt,"['1943', 'Dutch', 'Broeck', 'van den']",4
+data/part1/CliffJones(computerscientist)_ComputerScientists_en.txt,"['Jones', 'British', 'Cliff Jones', 'jones']",4
+data/part1/ConorMcBride_ComputerScientists_en.txt,"['McBride', 'mcbride']",2
+data/part1/ConstantNieuwenhuys_Sculptors_en.txt,"['Constant', 'CONSTANT', 'constant', 'Dutch', 'Constant Anton Nieuwenhuys']",5
+data/part1/ConstantinBrâncuși_Sculptors_en.txt,"['Romanian', 'BRÂNCUȘI', 'Constantin Brâncuși', 'Constantin BRÂNCUȘI', 'Brâncuși']",5
+data/part1/ConstantineAndreou_Sculptors_en.txt,"['ANDREOU', 'andreou', 'Andreou', 'Constantine Andreou']",4
+data/part1/CoosjevanBruggen_Sculptors_en.txt,"['Dutch', 'Coosje van Bruggen', 'Coosje Van Bruggen', 'American']",4
+data/part1/CorneliaVanAukenChapin_Sculptors_en.txt,"['american', 'American', 'Cornelia van Auken Chapin', 'Cornelia Van Auken Chapin']",4
+data/part1/CornelisH.A.Koster_ComputerScientists_en.txt,"['2013', 'Dutch']",2
+data/part1/CorneliusCure_Sculptors_en.txt,"['Cornelius Cure', 'Queen', '1607']",3
+data/part1/CorradoBöhm_ComputerScientists_en.txt,"['Corrado Böhm', 'italian', 'Italian']",3
+data/part1/CésarBaldaccini_Sculptors_en.txt,"['césar', 'César Baldaccini', 'French', 'César']",4
+data/part1/D.R.Fulkerson_ComputerScientists_en.txt,"['american', 'American', 'fulkerson', 'Delbert Ray Fulkerson', 'Fulkerson']",5
+data/part1/DamienCoyle_ComputerScientists_en.txt,"['2013', 'Damien Hugh Coyle']",2
+data/part1/DanIngalls_ComputerScientists_en.txt,"['1944', 'Daniel Henry Holmes Ingalls Jr.']",2
+data/part1/DanJurafsky_ComputerScientists_en.txt,"['Jurafsky', 'Daniel Jurafsky', 'jurafsky']",3
+data/part1/DanKlein_ComputerScientists_en.txt,"['1976', 'American', 'Daniel Klein']",3
+data/part1/DaneseCooper_ComputerScientists_en.txt,"['american', 'danese', 'Danese', 'American']",4
+data/part1/DanielJ.Bernstein_ComputerScientists_en.txt,"['Daniel Julius BERNSTEIN', 'Daniel Julius Bernstein', 'American']",3
+data/part1/DanielP.Friedman_ComputerScientists_en.txt,"['1944', 'Daniel Paul Friedman', 'Friedman']",3
+data/part1/DannyHillis_ComputerScientists_en.txt,"['Hillis', 'William Daniel Hillis', 'hillis', 'American']",4
+data/part1/DaphneKoller_ComputerScientists_en.txt,"['Coursera', 'Koller', 'Israeli', 'Stanford University', 'Daphne Koller', 'koller']",6
+data/part1/DarrellLong_ComputerScientists_en.txt,"['Don Earl Long', 'American']",2
+data/part1/DavidA.Huffman_ComputerScientists_en.txt,"['Huffman', 'huffman', 'American', 'David Albert Huffman']",4
+data/part1/DavidAscalon_Sculptors_en.txt,"['Israeli', 'israeli', 'David Ascalon']",3
+data/part1/DavidBader(computerscientist)_ComputerScientists_en.txt,"['2018', 'Bader', 'bader', 'David A. Bader']",4
+data/part1/DavidBlei_ComputerScientists_en.txt,[],0
+data/part1/DavidBooker_Sculptors_en.txt,"['Australian', 'David Booker', 'australian', '1954']",4
+data/part1/DavidC.Evans_ComputerScientists_en.txt,['David Cannon Evans'],1
+data/part1/DavidEppstein_ComputerScientists_en.txt,"['2011', '1963', 'David Arthur Eppstein', 'American']",4
+data/part1/DavidF.Bacon_ComputerScientists_en.txt,"['David Bacon', 'American']",2
+data/part1/DavidGelernter_ComputerScientists_en.txt,"['Gelernter', 'American', '4', 'gelernter', 'David Hillel Gelernter']",5
+data/part1/DavidGries_ComputerScientists_en.txt,"['American', 'David Gries']",2
+data/part1/DavidJ.Brown(computerscientist)_ComputerScientists_en.txt,"['David James Brown', '1982', 'American']",3
+data/part1/DavidKarger_ComputerScientists_en.txt,"['David Ron Karger', 'American']",2
+data/part1/DavidKorn(computerscientist)_ComputerScientists_en.txt,"['Korn', 'American', 'David Gerard Korn']",3
+data/part1/DavidLiddle_ComputerScientists_en.txt,['David Liddle'],1
+data/part1/DavidLuckham_ComputerScientists_en.txt,"['David Luckham', 'Luckham', 'luckham']",3
+data/part1/DavidP.Anderson_ComputerScientists_en.txt,"['the Space Sciences Laboratory', 'BOINC', 'American', '1955', 'David Pope Anderson', 'Anderson']",6
+data/part1/DavidS.Johnson_ComputerScientists_en.txt,"['American', '78', 'johnson', 'Johnson', '1945', 'David Stifler Johnson', '2016']",7
+data/part1/DerekMcAuley_ComputerScientists_en.txt,[],0
+data/part1/DhimiterÇani_Sculptors_en.txt,"['Albanian', '1990', '1904', 'Dhimitër Çani']",4
+data/part1/Dianaal-Hadid_Sculptors_en.txt,"['American', 'Syrian', 'Diana al-Hadid', '1981', 'Diana Al-Hadid']",5
+data/part1/DianeCarr_Sculptors_en.txt,['Diane Carr'],1
+data/part1/DinesBjørner_ComputerScientists_en.txt,"['Dines Bjørner', 'Bjørner']",2
+data/part1/DirkBus_Sculptors_en.txt,['Dutch'],1
+data/part1/DonaldFiresmith_ComputerScientists_en.txt,"['american', 'American', 'Donald G. Firesmith']",3
+data/part1/DonaldKnuth_ComputerScientists_en.txt,"['american', 'Knuth', 'American', 'Stanford University', 'knuth', 'Donald Ervin Knuth']",6
+data/part1/DoraMetcalf_ComputerScientists_en.txt,['Dora'],1
+data/part1/DorisCrane_Sculptors_en.txt,['Doris Martha Alice Crane'],1
+data/part1/DorisTottenChase_Sculptors_en.txt,"['american', 'Doris Totten Chase', 'Chase', 'American']",4
+data/part1/DorothyBlum_ComputerScientists_en.txt,"['Dorothy Toplitzky Blum', '1980', 'American']",3
+data/part1/DorothyCross_Sculptors_en.txt,"['Dorothy Cross', '1956', 'Irish']",3
+data/part1/DorothyE.Denning_ComputerScientists_en.txt,"['Dorothy Elizabeth', 'us']",2
+data/part1/DouglasComer_ComputerScientists_en.txt,"['Comer', 'Douglas Earl Comer', 'comer']",3
+data/part1/DouglasEngelbart_ComputerScientists_en.txt,"['engelbart', 'United States', 'American', 'Douglas Carl Engelbart', 'Engelbart']",5
+data/part1/DouglasLenat_ComputerScientists_en.txt,"['American', 'Douglas Bruce Lenat', '25', 'lenat', 'Lenat', 'US']",6
+data/part1/DouglasMcIlroy_ComputerScientists_en.txt,"['American', 'McIlroy', 'mcilroy', 'Malcolm douglas mcilroy', 'Malcolm Douglas McIlroy']",5
+data/part1/DouglasRobertsonBisset_Sculptors_en.txt,"['Scottish', 'Douglas Robertson Bisset']",2
+data/part1/E.AllenEmerson_ComputerScientists_en.txt,"['United States', 'E. Allen Emerson', 'American', 'Emerson', 'Ernest Allen Emerson II', 'emerson']",6
+data/part1/E.MarkGold_ComputerScientists_en.txt,"['E. Mark Gold', '1936', 'American']",3
+data/part1/EarlW.Bascom_Sculptors_en.txt,"['Earl Wesley', 'Canadian', 'canadian', 'American', 'bascom', 'Bascom']",6
+data/part1/EdgarF.Codd_ComputerScientists_en.txt,"['Edgar Frank ""Ted"" Codd', 'English']",2
+data/part1/EdithAnnaBell_Sculptors_en.txt,"['Irish', 'Edith Anna Bell']",2
+data/part1/EdithBateson_Sculptors_en.txt,['Edith Bateson'],1
+data/part1/EdmondAmateis_Sculptors_en.txt,"['american', 'Edmond Romulus Amateis', 'American']",3
+data/part1/EdmundM.Clarke_ComputerScientists_en.txt,"['2007', 'American', 'Clarke', 'clarke', 'Jr.', 'Edmund Melson Clarke']",6
+data/part1/EdsgerW.Dijkstra_ComputerScientists_en.txt,"['Edsger Wybe Dijkstra', '11', '60', 'dijkstra', 'Dijkstra', 'Dutch']",6
+data/part1/EduardoChillida_Sculptors_en.txt,"['Juantegui', 'juantegui', 'Eduardo Chillida', 'basque', 'Spanish', 'Basque', 'Eduardo Txillida Juantegi']",7
+data/part1/EdwardAllington_Sculptors_en.txt,"['Edward Thomas Allington', 'ALLINGTON', 'Allington', 'allington']",4
+data/part1/EdwardBerge_Sculptors_en.txt,"['american', '1924', 'American', '1876', 'Henry Berge', 'Edward Henry Berge']",6
+data/part1/EdwardD.Lazowska_ComputerScientists_en.txt,[],0
+data/part1/EdwardFeigenbaum_ComputerScientists_en.txt,"['1994', 'Edward Albert Feigenbaum']",2
+data/part1/EdwardFelten_ComputerScientists_en.txt,"['2018', 'Edward William Felten']",2
+data/part1/EdwardFredkin_ComputerScientists_en.txt,"['Edward Fredkin', 'fredkin', 'Fredkin', 'American']",4
+data/part1/EdwardHodgesBaily_Sculptors_en.txt,"['Edward Hodges Baily', 'Bailey']",2
+data/part1/EdwardMarshallBoehm_Sculptors_en.txt,"['american', 'American', 'Boehm', 'Edward Marshall Boehm', 'boehm']",5
+data/part1/EdwinCatmull_ComputerScientists_en.txt,"['Walt Disney Animation Studios', 'Edwin Earl Catmull', 'Pixar', 'American']",4
+data/part1/EgidQuirinAsam_Sculptors_en.txt,"['German', 'asam', 'german', 'Asam', 'egid quirin asam', 'Egid Quirin Asam']",6
+data/part1/EldonC.Hall_ComputerScientists_en.txt,['Eldon Hall'],1
+data/part1/ElectraWaggonerBiggs_Sculptors_en.txt,"['Waggoner Biggs', 'Biggs']",2
+data/part1/ElfriedeAbbe_Sculptors_en.txt,"['Abbe', 'Elfriede Martha Abbe', 'American']",3
+data/part1/ElisabethCollins_Sculptors_en.txt,"['ramsden', 'Elisabeth Ward Collins', 'Ramsden']",3
+data/part1/ElisabethGordonChandler_Sculptors_en.txt,"['american', 'Elisabeth Gordon Chandler', 'American']",3
+data/part1/ElizabethCatlett_Sculptors_en.txt,"['Alice Elizabeth Catlett', 'Elizabeth catlett Mora', 'catlett', 'Elizabeth catlett', 'American', 'mexican', 'CATLETT', 'Elizabeth Catlett', 'Catlett', 'Mexican', 'Elizabeth Catlett Mora']",11
+data/part1/EllaRoseCurtois_Sculptors_en.txt,"['Ella Rose Curtois', 'British']",2
+data/part1/EllenRankinCopp_Sculptors_en.txt,"['american', '1893', 'American', 'Helen Houser Rankin', 'Ellen Rankin Copp', 'Ellen']",6
+data/part1/EmiliaBayer_Sculptors_en.txt,"['Emilia N. Bayer', 'Emilia Bayer']",2
+data/part1/EmilieBenesBrzezinski_Sculptors_en.txt,['Emilie Anna Beneš'],1
+data/part1/EmiliusR.Ciampa_Sculptors_en.txt,"['america', 'american', 'America', 'American', 'Ciampa', 'Emilius', 'Emilius R. Ciampa', '6', 'ma']",9
+data/part1/EricAdjeteyAnang_Sculptors_en.txt,"['Ghanaian', 'Ghana', 'Eric Adjetey Anang', 'ghana']",4
+data/part1/EricHehner_ComputerScientists_en.txt,"['Canadian', 'hehner', 'Hehner']",3
+data/part1/EricHorvitz_ComputerScientists_en.txt,"['Eric Joel Horvitz', 'American', 'Horvitz', 'microsoft', 'ma', 'horvitz']",6
+data/part1/ErikDemaine_ComputerScientists_en.txt,['Erik D. Demaine'],1
+data/part1/ErnstBarlach_Sculptors_en.txt,"['German', 'Ernst Heinrich Barlach']",2
+data/part1/ErvinBossányi_Sculptors_en.txt,"['Ervin Bossányi', 'Hungarian']",2
+data/part1/EstellaCampavias_Sculptors_en.txt,"['British', 'Estella Campavias']",2
+data/part1/EugenCiuca_Sculptors_en.txt,"['Eugen Ciucă', 'Romanian', 'Ciucă']",3
+data/part1/EugeneLuks_ComputerScientists_en.txt,"['Eugene Michael Luks', '1940', 'American']",3
+data/part1/EugèneBrands_Sculptors_en.txt,"['CoBrA', 'Holland', 'Dutch', 'Eugène Brands']",4
+data/part1/EvaBenson_Sculptors_en.txt,"['Australian', 'Eva Ellenor Benson', 'benson', 'australian', 'Benson']",5
+data/part1/EvelinWinifredAston_Sculptors_en.txt,"['British', 'Evelin Leigh', 'Evelin Winifred Aston']",3
+data/part1/FannyLamChristie_Sculptors_en.txt,"['Fanny Lam Christie', 'Hong Kong', '1952']",3
+data/part1/FeliceCasorati_Sculptors_en.txt,"['italian', 'Italian']",2
+data/part1/FerencCsentery_Sculptors_en.txt,['Ferenc Csentery'],1
+data/part1/FernCunningham_Sculptors_en.txt,"['american', 'Fern Cunningham', 'American']",3
+data/part1/FernandoBotero_Sculptors_en.txt,"['Colombian', 'Botero', 'Fernando Botero Angulo', 'BOTERO', 'colombian', '2012', 'botero']",7
+data/part1/FernandoJ.Corbató_ComputerScientists_en.txt,"['American', 'Fernando José']",2
+data/part1/FilippoBrunelleschi_Sculptors_en.txt,"['Filippo Brunelleschi', 'brunelleschi', 'Lippo Lapi', '1377', 'Italian', 'Brunelleschi', 'BRUNELLESCHI', 'italian', 'Pippo', 'Renaissance', 'renaissance', 'Brunellesco']",12
+data/part1/FionaBanner_Sculptors_en.txt,"['BANNER', 'banner', 'Banner', 'Fiona Banner', 'The Vanity Press', '1966']",6
+data/part1/FlorenceCallcott_Sculptors_en.txt,"['Florence Callcott', 'British', 'Florence Newman', '1866']",4
+data/part1/FonsBemelmans_Sculptors_en.txt,['Dutch'],1
+data/part1/FrancesBagley_Sculptors_en.txt,"['american', 'Frances Bagley', 'American']",3
+data/part1/FrancesE.Allen_ComputerScientists_en.txt,"['Elizabeth Allen', 'allen', 'Allen', 'American']",4
+data/part1/FrancescoClemente_Sculptors_en.txt,"['İtaly', 'Francesco Clemente', 'italian', 'Italian']",4
+data/part1/FrancisLegattChantrey_Sculptors_en.txt,"['Chantrey', 'chantrey', 'English', 'CHANTREY', 'Francis Leggatt Chantrey']",5
+data/part1/FrancoCastelluccio_Sculptors_en.txt,"['american', 'American']",2
+data/part1/FrankHarary_ComputerScientists_en.txt,"['american', 'harary', 'American', 'Frank Harary', 'Harary']",5
+data/part1/FrançoisJosephBosio_Sculptors_en.txt,"['François Joseph Bosio', 'Monegasque']",2
+data/part1/FrançoisandMichelAnguier_Sculptors_en.txt,"['Michel Anguier', 'French']",2
+data/part1/FredBrooks_ComputerScientists_en.txt,"['Frederick Phillips Brooks Jr.', 'brooks', 'Brooks', 'American']",4
+data/part1/FridaBaranek_Sculptors_en.txt,"['brazil', 'Brazil', 'Brazilian', 'Frida Baranek', 'brazilian', '1961']",6
+data/part1/FriedrichL.Bauer_ComputerScientists_en.txt,"['Bauer', 'German', 'Friedrich Ludwig', 'bauer']",4
+data/part1/FritzBultman_Sculptors_en.txt,"['Fritz Bultman', 'american', 'American']",3
+data/part1/FrédéricBartholdi_Sculptors_en.txt,"['Frédéric Auguste Bartholdi', 'French']",2
+data/part1/FülöpÖ.Beck_Sculptors_en.txt,"['Hungarian', 'Beck Ö. Fülöp', '1873', '500', 'Ö. Fülöp Beck']",5
+data/part1/GaryWilliamFlake_ComputerScientists_en.txt,['Gary William Flake'],1
+data/part1/GastónGonnet_ComputerScientists_en.txt,[],0
+data/part1/GeneAmdahl_ComputerScientists_en.txt,"['american', 'American', 'Gene myron amdahl', 'IBM', 'gene Myron Amdahl', 'Amdahl', 'Gene Myron Amdahl', 'amdahl']",8
+data/part1/GeneGolub_ComputerScientists_en.txt,"['american', 'Howard Golub', 'American']",3
+data/part1/GeoffreyHinton_ComputerScientists_en.txt,"['Canadian', 'hinton', 'British', 'Geoffrey Everest Hinton', 'Hinton']",5
+data/part1/GeorgBaselitz_Sculptors_en.txt,"['German', 'Germany', 'german', 'baselitz', 'Hans-Georg Kern', 'Baselitz', 'BASELITZ']",7
+data/part1/GeorgeBoole_ComputerScientists_en.txt,"['Boole', 'boole', '1864', 'English', '200th', '19', '16', '1854', '50']",9
+data/part1/GeorgeEdwinBissell_Sculptors_en.txt,"['George Edwin Bissell', 'american', 'American']",3
+data/part1/GeorgeGammonAdams_Sculptors_en.txt,"['George Gammon Adams', 'English']",2
+data/part1/GeorgesBraque_Sculptors_en.txt,"['braque', '13', '20th-century', 'Georges Braque', 'Braque', 'BRAQUE', 'French']",7
+data/part1/GerardHolzmann_ComputerScientists_en.txt,"['1951', 'Dutch', 'Gerard J. Holzmann']",3
+data/part1/GernotHeiser_ComputerScientists_en.txt,"['Gernot Heiser', '1957']",2
+data/part1/GerritBlaauw_ComputerScientists_en.txt,"['Dutch', 'Blaauw']",2
+data/part1/GerritBolhuis_Sculptors_en.txt,"['Amsterdam', 'Dutch', 'Gerrit Bolhuis']",3
+data/part1/GiacomoBenevelli_Sculptors_en.txt,"['Giacomo Benevelli', 'İtaly', 'Italian', 'italian', '1925']",5
+data/part1/GianFrancescod'Agrate_Sculptors_en.txt,"['italian', ""Gian Francesco d'Agrate"", 'Italian']",3
+data/part1/GianLorenzoBernini_Sculptors_en.txt,"['Bernini', 'gianlorenzo', 'Gianlorenzo', 'uk', 'Giovanni Lorenzo', 'us', 'BERNINI', 'Italian', 'italian', 'Giovanni lorenzo', 'Gian Lorenzo', 'bernini']",12
+data/part1/GijsBakker_Sculptors_en.txt,"['bakker', '2009', 'Gijs Bakker', 'Bakker', 'Dutch']",5
+data/part1/GilbertBayes_Sculptors_en.txt,['Gilbert William Bayes'],1
+data/part1/GillesBrassard_ComputerScientists_en.txt,"['Gilles Brassard', '1988']",2
+data/part1/GillianLovegrove_ComputerScientists_en.txt,"['Gillian Lovegrove', '1942']",2
+data/part1/GinetteBingguely-Lejeune_Sculptors_en.txt,"['Georgette Lejeune', 'Ginette Bingguely-Lejeune']",2
+data/part1/GiosuèArgenti_Sculptors_en.txt,"['italian', 'Giosuè Argenti', 'Italian']",3
+data/part1/GiovanniAntonioAmadeo_Sculptors_en.txt,"['27', 'Giovanni Antonio Amadeo', 'italian', 'Italian']",4
+data/part1/GiovanniBernardinoAzzolini_Sculptors_en.txt,"['Giovanni Bernardino Azzolini', 'Mazzolini', 'Asoleni', 'Italian', 'Azzolino', 'italian']",6
+data/part1/GlenCuller_ComputerScientists_en.txt,"['american', 'Glen Jacob Culler', 'Culler', 'American']",4
+data/part1/GordonBell_ComputerScientists_en.txt,"['american', 'Bell', 'American', 'bell', 'Chester Gordon Bell']",5
+data/part1/GordonChandler_Sculptors_en.txt,"['american', 'American', 'Chandler', 'chandler', 'Gordon Chandler', '1953']",6
+data/part1/GordonCormack_ComputerScientists_en.txt,['Cormack'],1
+data/part1/GraceHopper_ComputerScientists_en.txt,"['40', 'Grace Hopper', 'American', 'Murray', '1959', 'Hopper', 'United States Navy', 'Grace Brewster Hopper', 'murray', '2024', 'hopper', 'Navy']",12
+data/part1/GradyBooch_ComputerScientists_en.txt,"['Grady Booch', 'American']",2
+data/part1/GranvilleCarter_Sculptors_en.txt,"['4', 'american', 'Carter', 'American']",4
+data/part1/GregorKiczales_ComputerScientists_en.txt,"['Kiczales', 'Gregor Kiczales', 'American']",3
+data/part1/GregoryChaitin_ComputerScientists_en.txt,"['John Chaitin', 'Chaitin', 'chaitin']",3
+data/part1/GrimanesaAmorós_Sculptors_en.txt,"['1962', 'peru', 'Grimanesa Amorós']",3
+data/part1/GuillaumeCharlier_Sculptors_en.txt,"['belgian', 'Belgian', '1854–1925']",3
+data/part1/GuillaumeCoustoutheElder_Sculptors_en.txt,[],0
+data/part1/GuillaumeCoustoutheYounger_Sculptors_en.txt,"['younger', 'Younger']",2
+data/part1/GuriBerg_Sculptors_en.txt,"['Guri', 'Guri Berg', 'Norwegian', 'Berg']",4
+data/part1/GutzonBorglum_Sculptors_en.txt,"['John Gutzon De La Mothe Borglum', 'american', 'American', 'John Gutzon de la Mothe Borglum', 'Mount Rushmore']",5
+data/part1/GyulaBezerédi_Sculptors_en.txt,"['Hungarian', '1858–1925', 'Gyula Bezerédi', 'Budapest']",4
+data/part1/HalAbelson_ComputerScientists_en.txt,"['abelson', 'Abelson', 'Harold Abelson', 'MIT']",4
+data/part1/HannekeBeaumont_Sculptors_en.txt,"['Dutch', '1947', 'Hanneke Beaumont']",3
+data/part1/HansBellmer_Sculptors_en.txt,"['German', 'Hans Bellmer', 'german']",3
+data/part1/HansVandeBovenkamp_Sculptors_en.txt,"['Hans Van De Bovenkamp', 'American', 'Hans van de Bovenkamp', 'Hans van De Bovenkamp', 'van De Bovenkamp', 'Hans Van de Bovenkamp', 'van de Bovenkamp', 'Van de Bovenkamp', 'Van De Bovenkamp', 'Dutch', '1938']",11
+data/part1/HarryBates(sculptor)_Sculptors_en.txt,['Harry Bates'],1
+data/part1/HarryBouwman_ComputerScientists_en.txt,"['Gerrit Anton', 'Bouwman', 'Willem Adriaan', '1953', 'Harry']",5
+data/part1/HaskellCurry_ComputerScientists_en.txt,"['curry', 'American', 'Brook', 'Curry', 'Brooks Curry', 'brook']",6
+data/part1/HazelArmour_Sculptors_en.txt,"['Scottish', '1985', 'Hazel Ruthven Armour']",3
+data/part1/HeJifeng_ComputerScientists_en.txt,"['He Jifeng', '2013', 'Chinese', '2005', 'Jifeng']",5
+data/part1/HectorGarcia-Molina_ComputerScientists_en.txt,"['Héctor García-Molina', 'mexican', 'Mexican']",3
+data/part1/HeidiBucher_Sculptors_en.txt,"['Heidi Bucher', 'Swiss']",2
+data/part1/HeinrichCharrasky_Sculptors_en.txt,"['1710', 'Hungarian', '1656', 'Heinrich Charasky', 'Heinrich Charrasky']",5
+data/part1/HelenBiggar_Sculptors_en.txt,"['Scottish', 'Helen Biggar']",2
+data/part1/HelenMaryCoaton_Sculptors_en.txt,"['British', 'Helen Mary Coaton']",2
+data/part1/HenriBoncquet_Sculptors_en.txt,"['Henri Boncquet', 'belgian', 'Belgian']",3
+data/part1/HenryCheere_Sculptors_en.txt,"['1703', 'Henry cheere', 'Henry Cheere']",3
+data/part1/HenryHughArmstead_Sculptors_en.txt,"['Henry Hugh Armstead', 'English']",2
+data/part1/HerbertW.Franke_ComputerScientists_en.txt,"['Austrian', 'sergius', 'Franke', 'franke', 'Sergius', 'Herbert W. Franke']",6
+data/part1/HermanHollerith_ComputerScientists_en.txt,"['hollerith', 'Hollerith', 'german', 'Herman Hollerith']",4
+data/part1/HermanWilhelmBissen_Sculptors_en.txt,"['Herman Wilhelm Bissen', 'Danish', 'Landsoldaten', 'Bissen', 'bissen']",5
+data/part1/HezekiahAugur_Sculptors_en.txt,"['american', 'Hezekiah Augur', 'American']",3
+data/part1/HilaryCartmel_Sculptors_en.txt,"['1958', 'English', 'Hilary Cartmel']",3
+data/part1/HorstAntes_Sculptors_en.txt,"['Horst Antes', 'Germany', 'German', 'german']",4
+data/part1/HugodeGaris_ComputerScientists_en.txt,"['1947', 'AI', 'Hugo de Garis', 'de Garis', 'australian']",5
+data/part1/HumaBhabha_Sculptors_en.txt,"['Pakistani', 'BHABHA', 'Bhabha', 'pakistani', 'bhabha', '1962', 'Huma Bhabha']",7
+data/part1/IanColdwater_ComputerScientists_en.txt,"['American', 'Ian Coldwater']",2
+data/part1/IanGoldberg_ComputerScientists_en.txt,"['Goldberg', 'Ian Avrum Goldberg']",2
+data/part1/IanGoodfellow_ComputerScientists_en.txt,"['Google Brain', 'American', 'Ian J. Goodfellow', '1987', '2016']",5
+data/part1/IgorHawryszkiewycz_ComputerScientists_en.txt,['American'],1
+data/part1/IngemarCox_ComputerScientists_en.txt,"['COX', 'Cox', 'Ingemar J. Cox', '49', '78']",5
+data/part1/IreneKataqAngutitok_Sculptors_en.txt,"['Irene Kataq Angutitok', 'Inuit']",2
+data/part1/IsaPaddyAqiattusuk_Sculptors_en.txt,['Isa Paddy Aqiattusuk'],1
+data/part1/IsidoreBonheur_Sculptors_en.txt,"['bonheur', 'Jules Bonheur', 'Bonheur', 'French']",4
+data/part1/IstvánBeöthy_Sculptors_en.txt,"['1897', 'Hungarian']",2
+data/part1/IvarJacobson_ComputerScientists_en.txt,"['Swedish', '1939', 'Hjalmar Jacobson']",3
+data/part1/J.C.R.Licklider_ComputerScientists_en.txt,"['Lick', 'lick', 'American']",3
+data/part1/J.G.Bubb_Sculptors_en.txt,['James George Bubb'],1
+data/part1/JackDongarra_ComputerScientists_en.txt,"['Dongarra', 'dongarra', 'Jack Joseph', 'American']",4
+data/part1/JackE.Bresenham_ComputerScientists_en.txt,"['Jack Elton Bresenham', 'us', 'US']",3
+data/part1/JackMinker_ComputerScientists_en.txt,['Jack Minker'],1
+data/part1/JacobBurck_Sculptors_en.txt,"['Burck', 'Jewish-American', 'Jacob Burck', 'burck', 'Polish']",5
+data/part1/JacopoColonna(sculptor)_Sculptors_en.txt,"['1540', 'Venice', 'Italian', 'Jacopo Colonna', 'italian', 'Giacomo Fantoni']",6
+data/part1/JacquesCohen(computerscientist)_ComputerScientists_en.txt,"['French', 'Jacques Cohen', 'cohen', 'Cohen']",4
+data/part1/JamesButler(artist)_Sculptors_en.txt,"['butler', 'Butler', 'British']",3
+data/part1/JamesCooley_ComputerScientists_en.txt,"['J. W. Cooley', 'American', 'James William Cooley', 'cooley', 'Cooley']",5
+data/part1/JamesD.Foley_ComputerScientists_en.txt,"['Foley', 'American', 'James David Foley']",3
+data/part1/JamesGosling_ComputerScientists_en.txt,"['Canadian', 'James Gosling', 'james gosling', 'Java']",4
+data/part1/JamesHendler_ComputerScientists_en.txt,"['United States', 'James Alexander Hendler', 'Rensselaer Polytechnic Institute']",3
+data/part1/JamesMartin(author)_ComputerScientists_en.txt,['James Martin'],1
+data/part1/JanDietz_ComputerScientists_en.txt,['Jean Leonardus Gerardus'],1
+data/part1/JaneAckroyd_Sculptors_en.txt,"['Jane Ackroyd', '1957']",2
+data/part1/JanetL.Kolodner_ComputerScientists_en.txt,"['american', 'American', 'Janet Lynne Kolodner']",3
+data/part1/JanineAntoni_Sculptors_en.txt,"['ny', 'American', 'Janine Antoni']",3
+data/part1/JanvanBorssumBuisman_Sculptors_en.txt,"['23', 'Jan Hendrik van Borssum Buisman', '20th-century', '1919', 'Netherlands']",5
+data/part1/JayBattle_Sculptors_en.txt,"['1966', 'Jay Battle']",2
+data/part1/Jean-BaptisteCarpeaux_Sculptors_en.txt,"['Jean-Baptiste Carpeaux', 'French', 'jean-baptiste carpeaux']",3
+data/part1/JeanArp_Sculptors_en.txt,"['Hans Peter Wilhelm Arp', 'Jean Arp', 'Jean arp']",3
+data/part1/JeanBaptisteJosephDeBaypère_Sculptors_en.txt,"['1863', 'Jozef de Bay', 'Joseph De Bay', 'france', 'Jan Baptist Jozef de Bay', 'De Bay père', 'Jean Baptiste']",7
+data/part1/JeanBartik_ComputerScientists_en.txt,"['Betty Jean Jennings', 'Bartik', 'American', '2011', 'Jean Bartik', 'ENIAC', 'bartik']",7
+data/part1/JeanIchbiah_ComputerScientists_en.txt,"['French', 'Jean David Ichbiah']",2
+data/part1/JeffBezos_ComputerScientists_en.txt,"['Jorgensen', 'Amazon', 'amazon', 'American', 'jorgensen', 'Bezos', '1986', 'Jeffrey Preston', 'Seattle', 'bezos', '2021', '2017']",12
+data/part1/JeffBonwick_ComputerScientists_en.txt,['Jeff Bonwick'],1
+data/part1/JeffDean_ComputerScientists_en.txt,"['Jeffrey Adgate', 'ai', 'American']",3
+data/part1/JenőBory_Sculptors_en.txt,"['Jenő Bory', 'Hungarian']",2
+data/part1/JeremyGibbons_ComputerScientists_en.txt,['Jeremy Gibbons'],1
+data/part1/JiaweiHan_ComputerScientists_en.txt,['Jiawei Han'],1
+data/part1/JimGray(computerscientist)_ComputerScientists_en.txt,"['1944', 'James Nicholas Gray', '2012', 'American']",4
+data/part1/JimmyBoyle(artist)_Sculptors_en.txt,['James Boyle'],1
+data/part1/JochenLiedtke_ComputerScientists_en.txt,"['German', 'Jochen Liedtke']",2
+data/part1/JohanHåstad_ComputerScientists_en.txt,"['Johan Torkel Håstad', '2018', 'Swedish', 'Håstad']",4
+data/part1/JohannesJosephusAarts_Sculptors_en.txt,"['Johannes', 'Dutch', 'Josephus Aarts']",3
+data/part1/JohnArmleder_Sculptors_en.txt,"['Swiss', 'John Armleder', '1948']",3
+data/part1/JohnBackus_ComputerScientists_en.txt,"['1977', 'American', 'Fortran', 'John Warner Backus', 'John Backus']",5
+"data/part1/JohnBacon(sculptor,born1740)_Sculptors_en.txt","['John Bacon', 'bacon', 'British', 'Bacon']",4
+"data/part1/JohnBacon(sculptor,born1777)_Sculptors_en.txt","['John Bacon', 'younger', 'English']",3
+data/part1/JohnBell(sculptor)_Sculptors_en.txt,"['John Bell', 'British', '1812–1895']",3
+data/part1/JohnBoxtel_Sculptors_en.txt,"['Dutch', 'John Boxtel', '1']",3
+data/part1/JohnBridgeman(sculptor)_Sculptors_en.txt,[],0
+data/part1/JohnBuckley(sculptor)_Sculptors_en.txt,"['buckley', 'Buckley', 'John Buckley', 'John buckley', '1945']",5
+data/part1/JohnCarmack_ComputerScientists_en.txt,"['American', 'John D. Carmack II', 'John d. carmack ii', 'Carmack', 'carmack']",5
+data/part1/JohnCederquist_Sculptors_en.txt,"['John Carl Cederquist', 'american', 'ba', 'American', 'BA']",5
+data/part1/JohnChamberlain(sculptor)_Sculptors_en.txt,"['american', 'John Angus Chamberlain', 'American']",3
+data/part1/JohnCheere_Sculptors_en.txt,['John Cheere'],1
+data/part1/JohnClague(artist)_Sculptors_en.txt,"['1928–2004', 'american', 'American', 'John Clague']",4
+data/part1/JohnCocke(computerscientist)_ComputerScientists_en.txt,"['John Cocke', 'American']",2
+data/part1/JohnConnell(artist)_Sculptors_en.txt,"['american', 'John Connell', 'American']",3
+data/part1/JohnDeAndrea_Sculptors_en.txt,"['american', 'John De Andrea', 'American', 'John de Andrea']",4
+data/part1/JohnEdwardCarew_Sculptors_en.txt,"['Irish', 'John Edward Carew']",2
+data/part1/JohnGeorgeKemeny_ComputerScientists_en.txt,"['John George Kemeny', 'american', 'Hungarian', 'American', 'kemeny', 'Kemeny', 'Dartmouth College', 'Kemény János György']",8
+data/part1/JohnHenryHolland_ComputerScientists_en.txt,"['John Henry Holland', 'American']",2
+data/part1/JohnHopcroft_ComputerScientists_en.txt,"['John Edward Hopcroft', 'American']",2
+data/part1/JohnHughes(computerscientist)_ComputerScientists_en.txt,"['R. John M. Hughes', 'R. John M. HUGHES', '1958-07-15']",3
+data/part1/JohnKoza_ComputerScientists_en.txt,"['John R. Koza', '1944', 'Koza', 'John Koza', 'koza']",5
+data/part1/JohnKrogstie_ComputerScientists_en.txt,"['23', 'Norwegian', 'John Krogstie']",3
+data/part1/JohnL.Hennessy_ComputerScientists_en.txt,"['American', 'John LeRoy Hennessy', 'Hennessy', 'John Leroy Hennessy', 'hennessy']",5
+data/part1/JohnLions_ComputerScientists_en.txt,"['John Lions', 'australian', 'Australian']",3
+data/part1/JohnMashey_ComputerScientists_en.txt,"['American', 'John R. Mashey', '1946']",3
+data/part1/JohnMauchly_ComputerScientists_en.txt,"['american', 'John William Mauchly', 'American', 'Mauchly', 'mauchly', 'ENIAC']",6
+data/part1/JohnMcCarthy(computerscientist)_ComputerScientists_en.txt,"['ai', 'American', 'John McCarthy', 'Mccarthy', 'mccarthy', 'McCarthy']",6
+data/part1/JohnNelsonBattenberg_Sculptors_en.txt,"['american', 'Battenberg', 'John', 'American', 'John Nelson Battenberg', 'John Battenberg', '1931']",7
+data/part1/JohnPresperEckert_ComputerScientists_en.txt,"['eckert', 'American', 'Eckert', 'ENIAC', 'John Adam Presper']",5
+data/part1/JohnS.Conway(artist)_Sculptors_en.txt,"['Severinus', 'severinus', 'Conway', 'conway', 'John S. Conway', 'Robert']",6
+data/part1/JohnVincentAtanasoff_ComputerScientists_en.txt,"['Atanasoff', 'American', 'ATANASOFF', 'atanasoff', 'John Vincent Atanasoff']",5
+data/part1/JohnWormaldAppleyard_Sculptors_en.txt,"['Thornton', 'John Wormald Appleyard']",2
+data/part1/JonCoffelt_Sculptors_en.txt,"['Johnny Lee Coffelt', 'american', 'American']",3
+data/part1/JonCrowcroft_ComputerScientists_en.txt,['Jonathan Andrew Crowcroft'],1
+data/part1/JonMichaelDunn_ComputerScientists_en.txt,"['Informatics and Computer Science', 'J. Michael Dunn']",2
+data/part1/JonathanBowen_ComputerScientists_en.txt,"['Bowen', 'British', '1956', 'Jonathan P. Bowen', 'bowen']",5
+data/part1/JonathanJames_ComputerScientists_en.txt,"['Jonathan Joseph James', 'American']",2
+data/part1/JoostBaljeu_Sculptors_en.txt,"['Joost Baljeu', 'Dutch']",2
+data/part1/JosephBeuys_Sculptors_en.txt,"['German', 'BEUYS', 'Beuys', '12', 'Joseph Heinrich Beuys', 'german', 'beuys']",7
+data/part1/JosephBonomitheYounger_Sculptors_en.txt,"['Joseph Bonomi', 'English']",2
+data/part1/JosephChaikov_Sculptors_en.txt,"['Joseph Moisevich Chaikov', 'Russian', 'Иосиф Моисеевич Чайков', 'Tchaikov']",4
+data/part1/JosephChinard_Sculptors_en.txt,"['lyon', 'Joseph Chinard']",2
+data/part1/JosephCsaky_Sculptors_en.txt,"['1928', 'Hungarian', 'csaky', 'Csáky József', 'József Csáky', 'Joseph Csaky', 'Csaky', 'French']",8
+data/part1/JosephEdgarBoehm_Sculptors_en.txt,"['British', 'Boehm', '1st Baronet', 'Joseph Edgar Boehm', 'boehm', '1890', '123']",7
+data/part1/JosephGoguen_ComputerScientists_en.txt,"['Goguen', 'Joseph Amadee Goguen', 'American']",3
+data/part1/JosephHalpern_ComputerScientists_en.txt,['Joseph Yehuda Halpern'],1
+data/part1/JosephHermonCawthra_Sculptors_en.txt,"['Joseph Hermon Cawthra', '1886–1971']",2
+data/part1/JosephKruskal_ComputerScientists_en.txt,"['american', 'Joseph Bernard Kruskal, Jr.', 'American']",3
+data/part1/JoshuaLederberg_ComputerScientists_en.txt,"['lederberg', 'American', 'LEDERBERG', 'Joshua Lederberg', '1958', 'Lederberg']",6
+data/part1/JosédeCreeft_Sculptors_en.txt,"['Spanish', 'José Mariano de Creeft', 'American']",3
+data/part1/JoséÁlvarezCubero_Sculptors_en.txt,"['José Álvarez Cubero', 'Spanish']",2
+data/part1/JoyceBidder_Sculptors_en.txt,['Muriel Joyce Bidder'],1
+data/part1/JuanBordes_Sculptors_en.txt,"['Juan Bordes', 'Juan Bordes Caballero', 'Spanish']",3
+data/part1/JuanE.Gilbert_ComputerScientists_en.txt,"['Gilbert', 'American', 'Juan E. Gilbert']",3
+data/part1/JuanFernandoCobo_Sculptors_en.txt,"['Juan Fernando Cobo', 'Colombian', 'Colombia', 'colombian', 'colombia', 'Agudelo']",6
+data/part1/JudithBrown(sculptor)_Sculptors_en.txt,"['Judith Brown', 'american', 'American']",3
+data/part1/JudyBoyt_Sculptors_en.txt,"['English', '1954']",2
+data/part1/JudyChicago_Sculptors_en.txt,"['american', 'Judy Chicago', 'American', '100', 'Judith Sylvia Cohen', 'CHICAGO', 'chicago', 'Chicago']",8
+data/part1/JudyGoldsmith(computerscientist)_ComputerScientists_en.txt,[],0
+data/part1/JuliaHirschberg_ComputerScientists_en.txt,"['Hirschberg', 'Julia Hirschberg', 'American']",3
+data/part1/JulioAbril_Sculptors_en.txt,"['Julio Vicente', 'Colombian', 'Agapito Abril Mayorga', 'colombian']",4
+data/part1/JurisHartmanis_ComputerScientists_en.txt,"['Latvian', 'Juris Hartmanis']",2
+data/part1/JérômeBtesh_Sculptors_en.txt,"['france', '1968', 'Jerome Btesh']",3
+data/part1/JózsefÁcs(sculptor)_Sculptors_en.txt,"['József Ács', 'Hungarian']",2
+data/part1/JürgGutknecht_ComputerScientists_en.txt,"['Swiss', 'Gutknecht']",2
+data/part1/KarelAppel_Sculptors_en.txt,"['Dutch', '1948', 'Christiaan Karel Appel']",3
+data/part1/KarelAubroeck_Sculptors_en.txt,['Karel Aubroeck'],1
+data/part1/KarlBitter_Sculptors_en.txt,"['american', 'Karl Theodore Francis Bitter', 'American']",3
+data/part1/KarlheinzBrandenburg_ComputerScientists_en.txt,"['Karlheinz Brandenburg', 'brandenburg', 'Brandenburg', 'German']",4
+data/part1/KarooAshevak_Sculptors_en.txt,"['ashevak', 'Inuit', 'Karoo Ashevak', 'inuit', 'Ashevak', '1960']",6
+data/part1/KateCory_Sculptors_en.txt,"['1905', 'United States', 'Kate Cory', 'American']",4
+data/part1/KathleenBooth_ComputerScientists_en.txt,"['Valerie Booth', 'British', 'Kathleen Hylda', 'Britten']",4
+data/part1/KelseyHightower_ComputerScientists_en.txt,['Kelsey Hightower'],1
+data/part1/KenForbus_ComputerScientists_en.txt,['Forbus'],1
+data/part1/KenKennedy(computerscientist)_ComputerScientists_en.txt,"['09', '8', 'American', 'sc', 'Kennedy', '38', 'Ken Kennedy', '200', 'kennedy']",9
+data/part1/KennethE.Iverson_ComputerScientists_en.txt,"['Kenneth Eugene Iverson', 'Canadian']",2
+data/part1/KevinAshton_ComputerScientists_en.txt,"['1968', 'Kevin Ashton', 'British']",3
+data/part1/KevinCaron_Sculptors_en.txt,"['Kevin Caron', 'Caron']",2
+data/part1/KevinLeyton-Brown_ComputerScientists_en.txt,"['leyton-brown', 'Leyton-Brown', 'Kevin Leyton-Brown']",3
+data/part1/KinjiAkagawa_Sculptors_en.txt,"['american', '2007', 'Kinji akagawa', 'Akagawa', 'American', 'akagawa', 'Kinji Akagawa', '1940']",8
+data/part1/KitCosper_ComputerScientists_en.txt,['Red Hat'],1
+data/part1/KiugakAshoona_Sculptors_en.txt,"['Canadian', 'kiawak', 'Kiawak', 'Canada', 'Kiugak Ashoona']",5
+data/part1/KunihikoFukushima_ComputerScientists_en.txt,"['japan', 'Japanese', 'Kunihiko Fukushima', 'Japan']",4
+data/part1/KurtBollacker_ComputerScientists_en.txt,"['Kurt Bollacker', 'bollacker', 'Bollacker', 'American']",4
+data/part1/KurtGödel_ComputerScientists_en.txt,"['Gödel', 'Kurt Friedrich Gödel', 'gödel']",3
+data/part1/KurtMehlhorn_ComputerScientists_en.txt,"['German', 'Kurt Mehlhorn']",2
+data/part1/KárolyAntal_Sculptors_en.txt,"['Antal', 'Károly Antal', 'Hungarian']",3
+data/part1/KárolyBebo_Sculptors_en.txt,"['1779', '10', 'Hungarian']",3
+"data/part1/L.R.Ford,Jr._ComputerScientists_en.txt","['american', 'American', '9', 'Lester R. Ford', 'ford', '10', 'Ford']",7
+data/part1/LajosBerán_Sculptors_en.txt,"['Lajos Berán', 'Hungarian']",2
+data/part1/Lambert-SigisbertAdam_Sculptors_en.txt,"['1700', 'Adam', 'adam', 'Lambert-Sigisbert Adam', 'lambert-sigisbert', 'Lambert-Sigisbert', 'French']",7
+data/part1/LambertMeertens_ComputerScientists_en.txt,"['Meertens', 'Dutch', 'Lambert Guillaume Louis']",3
+data/part1/LanceFortnow_ComputerScientists_en.txt,['Lance Jeremy Fortnow'],1
+data/part1/LarryBell(artist)_Sculptors_en.txt,"['Larry Bell', 'american', '1939', 'American']",4
+data/part1/LatcholassieAkesuk_Sculptors_en.txt,['Latcholassie Akesuk'],1
+data/part1/LaurenceBroderick_Sculptors_en.txt,"['2003', 'British', 'Bull', 'Birmingham', 'Laurence Broderick']",5
+data/part1/LaurentBoillat_Sculptors_en.txt,['Boillat'],1
+data/part1/LawrenceJ.Fogel_ComputerScientists_en.txt,[],0
+data/part1/LawrenceM.Breed_ComputerScientists_en.txt,['Larry'],1
+data/part1/LeeBontecou_Sculptors_en.txt,"['american', 'American', 'Lee Bontecou', 'BONTECOU', 'Bontecou', 'bontecou']",6
+data/part1/LeeGiles_ComputerScientists_en.txt,"['Clyde Lee Giles', 'American']",2
+data/part1/LennartAugustsson_ComputerScientists_en.txt,"['augustsson', 'Lennart Augustsson', 'Swedish', 'Augustsson']",4
+data/part1/LenoreBlum_ComputerScientists_en.txt,"['Epstein', 'Carol Blum', '2019', 'American']",4
+data/part1/LeonBattistaAlberti_Sculptors_en.txt,"['1472', 'Italian', 'Leon Battista Alberti', 'alberti', 'italian', 'Alberti']",6
+data/part1/LeonardAdleman_ComputerScientists_en.txt,"['Leonard Adleman', 'American']",2
+data/part1/LeonardBaskin_Sculptors_en.txt,"['america', 'american', 'America', 'American', 'baskin', 'BASKIN', 'Baskin', 'Leonard Baskin']",8
+data/part1/LeonardKleinrock_ComputerScientists_en.txt,"['Leonard Kleinrock', 'kleinrock', 'Kleinrock', 'American']",4
+data/part1/LeonardoBistolfi_Sculptors_en.txt,"['Italian', 'italian', 'Leonardo Bistolfi']",3
+data/part1/LeonardoChiariglione_ComputerScientists_en.txt,"['2020', 'Leonardo Chiariglione', 'İtaly', 'Italian', 'italian']",5
+data/part1/LeonidLevin_ComputerScientists_en.txt,"['Levin', 'Russian', 'Leonid Anatolievich Levin', 'Soviet', 'levin']",5
+data/part1/LesHatton_ComputerScientists_en.txt,"['4', 'Les Hatton', 'British']",3
+data/part1/LeslieLamport_ComputerScientists_en.txt,"['lamport', 'Leslie B. Lamport', 'Lamport', 'American']",4
+data/part1/LisaAnthony_ComputerScientists_en.txt,['Lisa Anthony'],1
+data/part1/LisaGelobter_ComputerScientists_en.txt,"['Lisa Gelobter', '1971', 'Gelobter']",3
+data/part1/LoekBos_Sculptors_en.txt,['Loek Bos'],1
+data/part1/LorenzoBartolini_Sculptors_en.txt,"['italian', 'Lorenzo Bartolini', 'Italian']",3
+data/part1/Louis-AlbertCarvin_Sculptors_en.txt,"['Louis-Albert Carvin', 'French']",2
+data/part1/Louis-ErnestBarrias_Sculptors_en.txt,"['Louis-Ernest Barrias', 'French']",2
+data/part1/LouisAmateis_Sculptors_en.txt,"['Amateis', 'american', 'Louis Amateis', 'amateis']",4
+data/part1/LouisHodes_ComputerScientists_en.txt,"['Louis Hodes', 'American']",2
+data/part1/LouiseAbbéma_Sculptors_en.txt,"['Louise Abbéma', 'the Belle Époque', 'French']",3
+data/part1/LouiseBourgeois_Sculptors_en.txt,"['bourgeois', 'Bourgeois', 'Louise Joséphine Bourgeois', 'French', 'BOURGEOIS']",5
+data/part1/LucaCardelli_ComputerScientists_en.txt,"['#', 'Italian', 'Andrea Cardelli', 'italian', 'Cardelli', 'cardelli']",6
+data/part1/LuciendenArend_Sculptors_en.txt,[],0
+data/part1/LudovicoCardi_Sculptors_en.txt,"['Lodovico Cardi', 'Rome', 'lodovico cardi', 'Italian', 'italian', 'cigoli', 'Cigoli']",7
+data/part1/LuigiDadda_ComputerScientists_en.txt,"['Dadda', '11', 'İtaly', 'Italian', 'dadda', 'italian', 'Luigi Dadda', '2012', '2016']",9
+data/part1/LuisvonAhn_ComputerScientists_en.txt,"['Guatemalan', 'guatemalan', 'Luis von Ahn']",3
+data/part1/LujoBezeredi_Sculptors_en.txt,"['Hungarian', '1898', 'Bezeredi', 'Bezerédi Lajos', 'Bezeredy', 'Lujo Bezeredi']",6
+data/part1/LygiaClark_Sculptors_en.txt,"['Clark', 'clark', 'Brazilian', 'Lygia Clark', 'CLARK', 'brazilian', 'Lygia Pimentel Lins']",7
+data/part1/LyndaBenglis_Sculptors_en.txt,"['american', 'Lynda Benglis', 'American']",3
+data/part1/LászlóBeszédes_Sculptors_en.txt,"['1874', 'Hungarian', 'Beszédes', 'László Beszédes', '1922']",5
+data/part1/LíaBermúdez_Sculptors_en.txt,"['Venezuelan', 'venezuela', 'Bermúdez', 'Lía Bermúdez', 'Venezuela', '91']",6
+data/part1/MaarjaKruusmaa_ComputerScientists_en.txt,"['Maarja Sink', 'Estonian', 'Kruusmaa']",3
+data/part1/MachadodeCastro_Sculptors_en.txt,"['Joaquim Machado De Castro', 'portugal', 'Joaquim machado de castro', 'Portugal', 'Joaquim Machado de Castro']",5
+data/part1/MadeleineBoschan_Sculptors_en.txt,"['German', '1979', 'german', 'Madeleine Boschan']",4
+data/part1/MagdalenaAbakanowicz_Sculptors_en.txt,"['Magdalena Abakanowicz', 'Polish', '1960', 'abakanowicz', 'one', 'Abakanowicz', 'ABAKANOWICZ']",7
+data/part1/MahmoudSamirFayed_ComputerScientists_en.txt,"['Mahmoud Samir Fayed', 'PWCT']",2
+data/part1/ManasieAkpaliapik_Sculptors_en.txt,"['Canadian', 'canadian', 'akpaliapik', '1955', 'Manasie Akpaliapik', 'Akpaliapik']",6
+data/part1/ManfrediBeninati_Sculptors_en.txt,"['1970', 'italian', 'Manfredi Beninati', 'Italian']",4
+data/part1/ManindraAgrawal_ComputerScientists_en.txt,"['Manindra Agrawal', '2003', 'India']",3
+data/part1/MannyMLehman_ComputerScientists_en.txt,['Lehman'],1
+data/part1/ManolisKellis_ComputerScientists_en.txt,"['Manolis Kellis', '1977', '29', 'kellis', 'Kellis', 'Greek', 'Μανώλης Καμβυσέλλης']",7
+data/part1/ManuelBlum_ComputerScientists_en.txt,"['Venezuelan', 'Manuel Blum']",2
+data/part1/ManuelCarbonell_Sculptors_en.txt,"['Carbonell', 'cuban', 'Manuel Carbonell', 'cuba', 'Cuba', 'carbonell']",6
+data/part1/MarcoDorigo_ComputerScientists_en.txt,"['İtaly', 'Marco Dorigo', '2003']",3
+data/part1/MarekKarpinski_ComputerScientists_en.txt,"['mathematician', 'Marek Karpinski']",2
+data/part1/MargaretBoozer_Sculptors_en.txt,"['Margaret A Boozer', '1966', 'American']",3
+data/part1/MargaretBurnett_ComputerScientists_en.txt,"['Margaret Burnett', 'Margaret M. Burnett', 'us', '1949']",4
+data/part1/MargaretHamilton(softwareengineer)_ComputerScientists_en.txt,"['Heafield', 'Margaret Elaine Hamilton', 'American', 'NASA', 'hamilton', 'Hamilton']",6
+data/part1/MargueriteLouisBlasingame_Sculptors_en.txt,"['Marguerite Louis', '1947', 'American', '1906', 'Blasingame']",5
+data/part1/MariAndriessen_Sculptors_en.txt,"['Andriessen', 'Dutch', 'Mari Silvester Andriessen', 'andriessen']",4
+data/part1/MarianneCsaky_Sculptors_en.txt,"['Csáky', '1959', 'Hungarian', 'Marianne Csaky']",4
+data/part1/Marie-AnneCollot_Sculptors_en.txt,"['1748', 'Marie-Anne Collot', 'French']",3
+data/part1/MarieBashkirtseff_Sculptors_en.txt,"['Maria Konstantinovna Bashkirtseva', 'Marie Bashkirtseff', 'Ukrainian', 'Paris']",4
+data/part1/MarieCazin_Sculptors_en.txt,"['French', 'Marie Clarisse Marguerite Guillet', 'Marie Cazin']",3
+data/part1/MarinusBoezem_Sculptors_en.txt,"['BOEZEM', 'Boezem', 'van den', 'Dutch', 'boezem']",5
+data/part1/MarkAntokolski_Sculptors_en.txt,"['Mark Matveyevich Antokolsky', 'Russian']",2
+data/part1/MarkBoyle(artist)_Sculptors_en.txt,"['Scottish', 'Mark Boyle']",2
+data/part1/MarkBulwinkle_Sculptors_en.txt,"['american', 'Bulwinkle', 'American', '1946', 'Mark Bulwinkle']",5
+data/part1/MarshallKirkMcKusick_ComputerScientists_en.txt,"['Marshall Kirk McKusick', 'McKusick']",2
+data/part1/MartaColvin_Sculptors_en.txt,['Marta Colvin Andrade'],1
+data/part1/MartinCampbell-Kelly_ComputerScientists_en.txt,[],0
+data/part1/MartinCharlesGolumbic_ComputerScientists_en.txt,"['1948', 'Martin Charles Golumbic']",2
+data/part1/MartinFowler(softwareengineer)_ComputerScientists_en.txt,"['British', 'Martin Fowler']",2
+data/part1/MartinHellman_ComputerScientists_en.txt,"['american', 'Hellman', 'American', 'Martin Edward Hellman', 'hellman', '2002']",6
+data/part1/MaryAudsley_Sculptors_en.txt,['British'],1
+data/part1/MaryCallery_Sculptors_en.txt,"['america', 'american', 'America', 'American', 'mary callery', 'Mary Callery']",6
+data/part1/MaryJaneIrwin_ComputerScientists_en.txt,"['Irwin', 'Mary Jane Irwin']",2
+data/part1/MarySymeBoyd_Sculptors_en.txt,"['Scottish', 'Mary Syme Boyd']",2
+data/part1/MarysoleWörnerBaz_Sculptors_en.txt,"['Marysole Wörner Baz', 'mexican', 'Mexican']",3
+data/part1/MathaiJoseph_ComputerScientists_en.txt,['Mathai Joseph'],1
+data/part1/MatthewDillon_ComputerScientists_en.txt,"['BSD', 'Matthew Dillon', '1966', 'DragonFly']",4
+data/part1/MauriceAscalon_Sculptors_en.txt,"['אשקלון', 'israeli', '1913–2003', 'Israeli', 'Maurice Ascalon']",5
+data/part1/MaxLevchin_ComputerScientists_en.txt,"['PayPal', 'HVF', 'Levchin', 'levchin']",4
+data/part1/MegCranston_Sculptors_en.txt,"['american', '1960', 'Meg Cranston', 'American']",4
+data/part1/MichaelBolus_Sculptors_en.txt,"['bolus', '1958', 'Bolus', 'BOLUS']",4
+data/part1/MichaelBoroniec_Sculptors_en.txt,"['1983', 'Michael Boroniec', 'american', 'American']",4
+data/part1/MichaelButler(computerscientist)_ComputerScientists_en.txt,['Michael J. Butler'],1
+data/part1/MichaelDanArcher_Sculptors_en.txt,"['1955', 'britain']",2
+data/part1/MichaelDertouzos_ComputerScientists_en.txt,"['Michael Leonidas Dertouzos', 'dertouzos', 'Greek', 'Dertouzos', 'MIT', 'Μιχαήλ Λεωνίδας Δερτούζος']",6
+data/part1/MichaelE.Caspersen_ComputerScientists_en.txt,"['1960', 'Michael Edelgaard Caspersen', 'Michael']",3
+data/part1/MichaelGarey_ComputerScientists_en.txt,"['1995', 'Michael Randolph Garey', 'garey', 'Garey']",4
+data/part1/MichaelGuy_ComputerScientists_en.txt,['British'],1
+data/part1/MichaelI.Jordan_ComputerScientists_en.txt,"['Michael Irwin Jordan', 'american', 'JORDAN', 'American', '2010', 'Michael Irwin JORDAN', 'jordan', 'Jordan']",8
+data/part1/MichaelKölling_ComputerScientists_en.txt,"['German', 'Greenfoot', 'Michael Kölling']",3
+data/part1/MichelangeloBuonarroti_Sculptors_en.txt,"['Italian', 'Michelangelo', 'italian', 'Lodovico Buonarroti Simoni', 'michelangelo']",5
+data/part1/MiguelBerrocal_Sculptors_en.txt,"['berrocal', 'spain', '2006', 'Spanish', 'Miguel Ortiz Berrocal', 'BERROCAL', 'Berrocal']",7
+data/part1/MikhailBotvinnik_ComputerScientists_en.txt,"['Botvinnik', 'BOTVINNIK', 'Mikhail Moiseyevich Botvinnik', 'soviet', 'Soviet', 'botvinnik']",6
+data/part1/MikhailShemyakin_Sculptors_en.txt,"['Шемякин', 'Russian', 'Mihail Mikhailovich Chemiakin', 'Shemyakin', 'SHEMYAKIN']",5
+data/part1/MiklósBorsos_Sculptors_en.txt,"['Miklós Borsos', 'Hungarian']",2
+data/part1/MiritCohen_Sculptors_en.txt,"['Mirit Cohen', 'Israeli', '1990', 'cohen', 'Cohen']",5
+data/part1/MonicaS.Lam_ComputerScientists_en.txt,"['Monica Sin-Ling Lam', 'american', 'American']",3
+data/part1/MortimerBrown_Sculptors_en.txt,"['English', 'John Brown']",2
+data/part1/NadiaMagnenatThalmann_ComputerScientists_en.txt,['Nadia Magnenat Thalmann'],1
+data/part1/NancyCarline_Sculptors_en.txt,"['Carline', 'carline', 'CARLINE', 'Nancy Mona Carline', 'higgins', 'Higgins']",6
+data/part1/NancyLynch_ComputerScientists_en.txt,['Nancy Ann Lynch'],1
+data/part1/NarendraKarmarkar_ComputerScientists_en.txt,"['Karmarkar', 'indian', 'Indian', 'Narendra Krishna Karmarkar', 'karmarkar']",5
+data/part1/NealeAndrew_Sculptors_en.txt,"['1958', 'English', 'Andrew']",3
+data/part1/NeerajKayal_ComputerScientists_en.txt,"['India', 'indian', 'Neeraj Kayal', 'Indian', 'india']",5
+data/part1/NeilDaswani_ComputerScientists_en.txt,"['Neil Daswani', 'Daswani']",2
+data/part1/NeilJ.Gunther_ComputerScientists_en.txt,"['Neil Gunther', 'Gunther', 'gunther']",3
+data/part1/NeilLawsonBaker_Sculptors_en.txt,"['Neil Lawson Baker', 'British']",2
+data/part1/NelloCristianini_ComputerScientists_en.txt,"['1968', 'Nello Cristianini']",2
+data/part1/NelsN.Alling_Sculptors_en.txt,"['Nels N. Alling', 'Perth Amboy', 'New Jersey', 'Danish-American']",4
+data/part1/NessaCohen_Sculptors_en.txt,"['Helen Nessa Cohen', 'american', 'Nessa Cohen', 'American']",4
+data/part1/NiclasCastello_Sculptors_en.txt,"['1978', 'German', 'Niclas Castello']",3
+data/part1/NicoHabermann_ComputerScientists_en.txt,"['habermann', 'Habermann', 'Nico Habermann', 'Arie Nicolaas', 'Dutch']",5
+data/part1/Nicolas-SébastienAdam_Sculptors_en.txt,"['French', 'Nicolas-Sébastien Adam']",2
+data/part1/NicolasCoustou_Sculptors_en.txt,['Nicolas Coustou'],1
+data/part1/NinaBaanders-Kessler_Sculptors_en.txt,"['28', 'Nina Baanders-Kessler', 'Dutch']",3
+data/part1/NirAlon_Sculptors_en.txt,"['israeli', 'Nir Alon', 'alon', 'Israeli', 'israel', 'Israel', 'Alon']",7
+data/part1/NorahAnsell_Sculptors_en.txt,"['Norah Marjorie Ansell', 'British']",2
+data/part1/NormanCarlberg_Sculptors_en.txt,"['american', 'American']",2
+data/part1/OdedGoldreich_ComputerScientists_en.txt,"['1957', 'Oded Goldreich', 'Israel', 'israel', 'גולדרייך']",5
+data/part1/OlaCohn_Sculptors_en.txt,"['Australian', 'ola Cohn', 'Ola Cohn', 'Carola Cohn', 'australian']",5
+data/part1/Ole-JohanDahl_ComputerScientists_en.txt,"['Ole-Johan Dahl', 'Norwegian']",2
+data/part1/OrenEtzioni_ComputerScientists_en.txt,"['American', 'etzioni', 'Oren Etzioni', 'Etzioni', '1964']",5
+data/part1/OrfeoBoselli_Sculptors_en.txt,"['Orfeo Boselli', 'italian', 'Italian']",3
+data/part1/PablitaAbeyta_Sculptors_en.txt,"['Ta-Nez-Bah', 'United States', 'Navajo', 'Abeyta', 'Pablita Abeyta', 'navajo', '2000']",7
+data/part1/PamelaAscherson_Sculptors_en.txt,"['Pamela Ascherson', 'British', 'Pamela Rachet']",3
+data/part1/PatriciaD.Lopez_ComputerScientists_en.txt,"['Patricia Diane', 'American']",2
+data/part1/PatrickCousot_ComputerScientists_en.txt,"['cousot', 'france', 'Patrick Cousot', 'Cousot', 'French']",5
+data/part1/PaulDourish_ComputerScientists_en.txt,"['Paul Dourish', 'us', 'Dourish', '19', '1966']",5
+data/part1/PaulDuBois_Sculptors_en.txt,"['Paul Du Bois', 'Belgian', 'Du Bois', '1859–1938']",4
+data/part1/PaulGraham(computerprogrammer)_ComputerScientists_en.txt,"['graham', 'Graham', 'Paul Graham']",3
+data/part1/PaulHudak_ComputerScientists_en.txt,"['Paul Raymond Hudak', 'American']",2
+data/part1/PaulJustinCompton_ComputerScientists_en.txt,['Paul Compton'],1
+data/part1/PaulineAitken_Sculptors_en.txt,['Pauline Aitken'],1
+data/part1/PerAbramsen_Sculptors_en.txt,['Dutch'],1
+data/part1/PerBrinchHansen_ComputerScientists_en.txt,['Per Brinch Hansen'],1
+data/part1/PercivalBall_Sculptors_en.txt,"['percival', '1900', 'Ball', 'Percival', 'ball', '1888', '24', 'Percival Ball']",8
+data/part1/PetahCoyne_Sculptors_en.txt,"['american', 'American', 'COYNE', 'Coyne', 'coyne', 'Petah Coyne', '1953']",7
+data/part1/PeterAgostini_Sculptors_en.txt,"['american', 'Peter Agostini', 'American']",3
+data/part1/PeterBernus_ComputerScientists_en.txt,"['Peter Bernus', 'Hungarian', 'Australian', 'Australia', 'australia', '1949', 'australian']",7
+data/part1/PeterBlume_Sculptors_en.txt,"['american', 'Peter Blume', 'American']",3
+data/part1/PeterBrandes_Sculptors_en.txt,"['Peter Brandes', 'Danish', 'Brandes', 'brandes']",4
+data/part1/PeterChen_ComputerScientists_en.txt,"['Peter Pin-Shan Chen', 'Peter pin-shan chen']",2
+data/part1/PeterEades_ComputerScientists_en.txt,['Eades'],1
+data/part1/PeterJ.Denning_ComputerScientists_en.txt,"['Peter James Denning', 'American']",2
+data/part1/PeterLandin_ComputerScientists_en.txt,"['Peter John Landin', 'British']",2
+data/part1/PeterT.Kirstein_ComputerScientists_en.txt,"['Kirstein', 'British', 'Peter Thomas Kirstein']",3
+data/part1/PhilipDonEstridge_ComputerScientists_en.txt,"['IBM', 'Philip Donald Estridge', 'Don Estridge']",3
+data/part1/PhilipEmeagwali_ComputerScientists_en.txt,"['Nigeria', '23', 'Philip Emeagwali', 'nigeria']",4
+data/part1/PhilippMatthäusHahn_ComputerScientists_en.txt,"['German', 'Philipp Matthäus Hahn']",2
+data/part1/PhyllisBone_Sculptors_en.txt,[],0
+data/part1/PierJacopoAlariBonacolsi_Sculptors_en.txt,"['antico', 'Antico', 'Italian', 'Antique', 'italian', 'Pier Jacopo', ""L'Antico""]",7
+data/part1/PierreCartellier_Sculptors_en.txt,"['Pierre Cartellier', 'French']",2
+data/part1/PingFu_ComputerScientists_en.txt,"['1958', 'Chinese', 'Fu']",3
+data/part1/PinoCaballeroGil_ComputerScientists_en.txt,"['Pino Caballero Gil', 'Spanish']",2
+data/part1/Poul-HenningKamp_ComputerScientists_en.txt,['Danish'],1
+data/part1/RachelAra_Sculptors_en.txt,"['Rachel Ara', 'British', '1965']",3
+data/part1/RalphGriswold_ComputerScientists_en.txt,"['Ralph Griswold', 'ca', 'CA', 'griswold', 'Griswold', 'Ralph E. Griswold']",6
+data/part1/RamanathanV.Guha_ComputerScientists_en.txt,"['1965', 'rdf', 'Ramanathan V. Guha']",3
+data/part1/RameshJain_ComputerScientists_en.txt,['Chandra Jain'],1
+data/part1/RaphaelFinkel_ComputerScientists_en.txt,"['1951', 'Raphael Finkel', 'American']",3
+data/part1/RasmusLerdorf_ComputerScientists_en.txt,"['Rasmus Lerdorf', 'PHP', '22', 'php']",4
+data/part1/RedietAbebe_ComputerScientists_en.txt,"['Ethiopian', 'Abebe', 'ረድኤት']",3
+data/part1/ReginaldE.Beauchamp_Sculptors_en.txt,"['american', 'beauchamp', 'American', 'Reginald E. Beauchamp', 'Beauchamp']",5
+data/part1/RembrandtBugatti_Sculptors_en.txt,"['Rembrandt Bugatti', 'italian', 'Italian']",3
+data/part1/RenePaulChambellan_Sculptors_en.txt,"['american', 'Rene Paul Chambellan']",2
+data/part1/RenédeBoer_Sculptors_en.txt,"['René de Boer', 'Dutch']",2
+data/part1/RichardDeMillo_ComputerScientists_en.txt,"['Richard Allan DeMillo', 'American']",2
+data/part1/RichardE.Ladner_ComputerScientists_en.txt,"['Richard Emil Ladner', 'American']",2
+data/part1/RichardHamming_ComputerScientists_en.txt,"['hamming', 'Richard Wesley', 'Hamming', 'American']",4
+data/part1/RichardJ.Lipton_ComputerScientists_en.txt,"['Richard Jay Lipton', 'American']",2
+data/part1/RichardKarp_ComputerScientists_en.txt,"['1992', 'American', 'Richard Manning Karp', 'Karp', 'karp']",5
+data/part1/RichardP.Gabriel_ComputerScientists_en.txt,"['American', 'Richard P. Gabriel', '1949']",3
+data/part1/RichardW.Conway_ComputerScientists_en.txt,"['american', 'American', 'Cornell', 'Conway', 'Richard Walter Conway']",5
+data/part1/RichmondBarthé_Sculptors_en.txt,"['Richmond Barthé', 'James Richmond Barthé', 'Barthé']",3
+data/part1/RobertBain(artist)_Sculptors_en.txt,"['South Africa', 'Robert Bain', '1911–1973']",3
+data/part1/RobertBeall_Sculptors_en.txt,"['Robert Beall', 'English']",2
+data/part1/RobertBery_Sculptors_en.txt,"['Robert Bery', 'Bery', 'bery']",3
+data/part1/RobertBryden_Sculptors_en.txt,"['bryden', 'Bryden', 'Robert Bryden']",3
+data/part1/RobertC.Martin_ComputerScientists_en.txt,"['Martin', 'American', 'bob', 'Bob', 'Robert Cecil Martin', 'martin']",6
+data/part1/RobertCailliau_ComputerScientists_en.txt,"['WWW', 'the World Wide Web', 'Belgian', 'Robert Cailliau']",4
+data/part1/RobertCombas_Sculptors_en.txt,"['Robert combas', 'COMBAS', 'Combas', 'French', 'Robert Combas', 'combas']",6
+data/part1/RobertDewar_ComputerScientists_en.txt,"['Robert Berriedale Keith Dewar', 'American']",2
+data/part1/RobertE.Kahn_ComputerScientists_en.txt,"['Robert Elliot Kahn', 'kahn', 'Kahn', 'American']",4
+data/part1/RobertFrance_ComputerScientists_en.txt,"['American', 'Jamaica', 'Robert Bertrand', 'france', 'Robert France', 'France', '2015', 'Robert B. France']",8
+data/part1/RobertGriesemer_ComputerScientists_en.txt,"['1964', 'Robert Griesemer']",2
+data/part1/RobertKowalski_ComputerScientists_en.txt,['British'],1
+data/part1/RobertL.Glass_ComputerScientists_en.txt,"['1932', 'American', 'Glass']",3
+data/part1/RobertM.Graham(computerscientist)_ComputerScientists_en.txt,"['1929', 'Robert M. Graham', 'us']",3
+data/part1/RobertS.Boyer_ComputerScientists_en.txt,"['Boyer', 'Robert Stephen Boyer', 'American']",3
+data/part1/RobertW.Floyd_ComputerScientists_en.txt,"['Floyd', 'floyd', 'Robert W Floyd']",3
+data/part1/RobertoIerusalimschy_ComputerScientists_en.txt,"['Roberto', '21', 'Brazilian', 'Roberto Ierusalimschy', 'roberto']",5
+data/part1/RobertofBeverley_Sculptors_en.txt,"['Robert of Beverley', '1285']",2
+data/part1/RobinMilner_ComputerScientists_en.txt,"['Arthur John Robin Gorell Milner', 'British']",2
+data/part1/RodBrooks_ComputerScientists_en.txt,"['Rodney Allen Brooks', 'ai', 'australian', 'Australian']",4
+data/part1/RodBurstall_ComputerScientists_en.txt,"['1934', 'Rodney Martineau']",2
+data/part1/RodCanion_ComputerScientists_en.txt,['American'],1
+data/part1/RogerBracke_Sculptors_en.txt,['Roger Bracke'],1
+data/part1/RogerHui_ComputerScientists_en.txt,['Roger Kwok Wah Hui'],1
+data/part1/RolandCarlBackhouse_ComputerScientists_en.txt,"['British', 'Roland Carl Backhouse']",2
+data/part1/RonaldBladen_Sculptors_en.txt,"['BLADEN', 'American', 'bladen', 'Bladen', 'Ronald Bladen']",5
+data/part1/RosaBonheur_Sculptors_en.txt,"['1855', 'Bonheur', 'bonheur', 'Marie-Rosalie Bonheur', 'BONHEUR', '1848', 'French', 'Rosa Bonheur']",8
+data/part1/RosemaryCandlin_ComputerScientists_en.txt,"['Rosemary Candlin', '1927']",2
+data/part1/RudolfBayer_ComputerScientists_en.txt,"['German', 'Rudolf Bayer', 'Bayer']",3
+data/part1/RuthAsawa_Sculptors_en.txt,"['american', 'ten', 'American', 'Japanese', 'asawa', 'Asawa', '1926', 'Ruth Aiko Asawa']",8
+data/part1/RuthHuttonAncker_Sculptors_en.txt,"['american', 'American', '1901–1979', 'Ruth Hutton Ancker', 'Ruth Lapet Hutton']",5
+data/part1/RyanDahl_ComputerScientists_en.txt,"['1981', 'Ryan Dahl', 'American']",3
+data/part1/SallyFloyd_ComputerScientists_en.txt,"['american', 'ten', 'Sally Jean Floyd', 'American']",4
+data/part1/SalouaRaoudaChoucair_Sculptors_en.txt,['Lebanese'],1
+data/part1/SamirDas_ComputerScientists_en.txt,"['Indian', '54', 'Samir R. Das']",3
+data/part1/SamsonAbramsky_ComputerScientists_en.txt,"['Abramsky', 'Samson Abramsky', 'abramsky']",3
+data/part1/SamuelCashwan_Sculptors_en.txt,"['1900–1988', 'american', 'Samuel Adolph Cashwan', 'American']",4
+data/part1/SandraHutchins_ComputerScientists_en.txt,"['Sandra Elaine Hutchins', 'Hutchins', '1946', 'American']",4
+data/part1/SanjayGhemawat_ComputerScientists_en.txt,"['1966', 'Sanjay Ghemawat', 'Ghemawat']",3
+data/part1/SanjeevArora_ComputerScientists_en.txt,['Sanjeev Arora'],1
+data/part1/SarahFisherAmes_Sculptors_en.txt,"['Sarah Fisher Ames', 'american', 'American']",3
+data/part1/SchahramDustdar_ComputerScientists_en.txt,"['Schahram Dustdar', 'Dustdar']",2
+data/part1/ScottAaronson_ComputerScientists_en.txt,"['quantum', 'Scott Joel Aaronson', 'American']",3
+data/part1/ScottBurton_Sculptors_en.txt,"['Scott Burton', 'american', 'American']",3
+data/part1/ScottFahlman_ComputerScientists_en.txt,"['Fahlman', 'Scott Elliott Fahlman']",2
+data/part1/SeanK.L.Browne_Sculptors_en.txt,"['Sean', '1953']",2
+data/part1/SergeAbiteboul_ComputerScientists_en.txt,"['france', 'Serge Joseph Abiteboul', 'French', 'France']",4
+data/part1/SergeyBrin_ComputerScientists_en.txt,"['Alphabet', 'Google', 'American', 'google', 'Sergey Mikhailovich Brin', 'brin', 'Brin', 'Alphabet Inc.', 'Сергей Михайлович Брин']",9
+data/part1/SerhiiBrylov_Sculptors_en.txt,"['Ukrainian', 'Brylov Serhii Volodymyrovych']",2
+data/part1/SeymourCray_ComputerScientists_en.txt,"['cray', 'Seymour Roger Cray', 'Seymour', 'Cray', 'seymour']",5
+data/part1/SeymourGinsburg_ComputerScientists_en.txt,"['Ginsburg', 'American', '100', 'ginsburg', 'Seymour Ginsburg']",5
+data/part1/ShafiGoldwasser_ComputerScientists_en.txt,['Shafrira Goldwasser'],1
+data/part1/ShakuntalaAtre_ComputerScientists_en.txt,"['Indian', 'Shakuntala', '1940']",3
+data/part1/SheilaGreibach_ComputerScientists_en.txt,"['Sheila Adele Greibach', 'American']",2
+data/part1/ShelaghCluett_Sculptors_en.txt,"['2007', 'Cluett', 'cluett', 'Shelagh Cluett']",4
+data/part1/SheliaGuberman_ComputerScientists_en.txt,['Shelia Guberman'],1
+data/part1/ShimonEven_ComputerScientists_en.txt,"['Israeli', 'Shimon Even']",2
+data/part1/SilvioApponyi_Sculptors_en.txt,"['South Australia', 'Silvio Apponyi', 'Australian']",3
+data/part1/SilvioMicali_ComputerScientists_en.txt,"['Algorand', 'Silvio Micali', 'italian', 'Italian']",4
+data/part1/SimeonieAmagoalik_Sculptors_en.txt,"['Simeonie Amagoalik', 'Canada']",2
+data/part1/SimonColton_ComputerScientists_en.txt,"['Simon Colton', '1973']",2
+data/part1/SimonMarlow_ComputerScientists_en.txt,"['British', 'Simon Marlow', 'marlow', 'Marlow']",4
+data/part1/SiobanCoppinger_Sculptors_en.txt,"['1955', 'Sioban Coppinger', 'britain']",3
+data/part1/SjaakBrinkkemper_ComputerScientists_en.txt,['Dutch'],1
+data/part1/StellaRebeccaCrofts_Sculptors_en.txt,['Stella Rebecca Crofts'],1
+data/part1/StephenAntonakos_Sculptors_en.txt,"['Stephen Antonakos', 'Στυλιανός Αντωνάκος', 'american', 'American']",4
+data/part1/StephenC.Johnson_ComputerScientists_en.txt,"['Stephen Curtis Johnson', '1944']",2
+data/part1/StephenColeKleene_ComputerScientists_en.txt,"['Kleene', 'Stephen Cole', 'American', 'kleene']",4
+data/part1/StephenCook_ComputerScientists_en.txt,"['Canadian', 'Stephen Arthur Cook', 'American']",3
+data/part1/StephenR.Bourne_ComputerScientists_en.txt,[],0
+data/part1/SteveBrudniak_Sculptors_en.txt,"['Brudniak', 'american', 'Steve Brudniak', 'brudniak', 'American', '2024']",6
+data/part1/SteveLawrence(computerscientist)_ComputerScientists_en.txt,"['Australian', 'Australia', '10', 'Lawrence', '50', 'Steve Lawrence']",6
+data/part1/StevenM.Bellovin_ComputerScientists_en.txt,"['Bellovin', 'bellovin', 'Steven M. Bellovin']",3
+data/part1/SueBlack(computerscientist)_ComputerScientists_en.txt,"['1962', 'British', 'Susan Elizabeth Black']",3
+data/part1/SusanDumais_ComputerScientists_en.txt,"['american', 'Susan Dumais', 'American']",3
+data/part1/SusanL.Graham_ComputerScientists_en.txt,"['graham', 'Graham', 'Susan Lois Graham', 'American']",4
+data/part1/TedKaehler_ComputerScientists_en.txt,"['Ted Kaehler', '1950', 'American']",3
+data/part1/TeodoziaBryzh_Sculptors_en.txt,"['Markivna Bryzh', '1997', 'Ukrainian']",3
+data/part1/TerryA.Davis_ComputerScientists_en.txt,"['Davis', 'davis', 'Andrew Davis', 'Terry A. Davis', 'American', '2018', '1996', '2017']",8
+data/part1/TerryBatt_Sculptors_en.txt,"['Terry Batt', 'Australian']",2
+data/part1/ThomasBall(artist)_Sculptors_en.txt,"['american', 'Thomas Ball', 'American']",3
+data/part1/ThomasBanks(sculptor)_Sculptors_en.txt,"['Thomas Banks', 'English', '18th-century']",3
+data/part1/ThomasBrock_Sculptors_en.txt,"['British', 'Thomas Brock']",2
+data/part1/ThomasCampbell(sculptor)_Sculptors_en.txt,"['Scottish', 'Thomas Campbell']",2
+data/part1/ThomasE.Kurtz_ComputerScientists_en.txt,"['Kurtz', 'kurtz', 'Thomas Eugene Kurtz']",3
+data/part1/ThomasJ.Clapperton_Sculptors_en.txt,[],0
+data/part1/TimBerners-Lee_ComputerScientists_en.txt,"['100', 'the World Wide Web', 'English', 'mit', 'Timothy John Berners-Lee', 'HTTP', 'HTML', 'MIT']",8
+data/part1/TimFinin_ComputerScientists_en.txt,"['Timothy Wilking Finin', '1949']",2
+data/part1/TinKamHo_ComputerScientists_en.txt,['Tin Kam Ho'],1
+data/part1/TinaAllen_Sculptors_en.txt,"['american', 'Tina Allen', 'American']",3
+data/part1/TizianoAspetti_Sculptors_en.txt,"['tiziano aspetti', 'Tiziano Aspetti', 'aspetti', 'Italian', 'italian', 'Aspetti']",6
+data/part1/TomDeMarco_ComputerScientists_en.txt,"['Tom DeMarco', 'American']",2
+data/part1/TomGruber_ComputerScientists_en.txt,"['Thomas Robert Gruber', 'gruber', 'American', '1959', 'Gruber']",5
+data/part1/TomLane(computerscientist)_ComputerScientists_en.txt,"['Thomas G. Lane', 'Lane', '10', 'ijg']",4
+data/part1/TomMaibaum_ComputerScientists_en.txt,"['Maibaum', 'Thomas Stephen Edward Maibaum', 'maibaum']",3
+data/part1/TommyFlowers_ComputerScientists_en.txt,"['Colossus', 'World War II']",2
+data/part1/TonyBerlant_Sculptors_en.txt,"['american', 'ba', 'American', 'BA', '1941', 'Anthony Hanna Berlant']",6
+data/part1/TonyCragg_Sculptors_en.txt,"['Anthony Douglas Cragg', '1977']",2
+data/part1/ToomasAltnurme_Sculptors_en.txt,"['Estonia', 'Altnurme', 'Estonian', 'Toomas Altnurme', 'altnurme', 'estonia', 'estonian']",7
+data/part1/TracyCamp_ComputerScientists_en.txt,"['Tracy Kay Camp', 'American']",2
+data/part1/TracyChou_ComputerScientists_en.txt,"['1987', 'Tracy Chou']",2
+data/part1/TreffleBerthlaume_Sculptors_en.txt,"['Canadian', 'canadian', 'Berthlaume', 'Treffle', 'Treffle Berthlaume', 'Canada']",6
+data/part1/UjjwalMaulik_ComputerScientists_en.txt,"['Ujjwal Maulik', 'us']",2
+data/part1/UmbertoBoccioni_Sculptors_en.txt,"['100', '1988', 'us', 'Italian', 'italian', 'Umberto Boccioni']",6
+data/part1/VanessaBeecroft_Sculptors_en.txt,"['Vanessa Beecroft', 'italian', 'Italian']",3
+data/part1/VasylBorodai_Sculptors_en.txt,"['Vasyl Zakharovych Borodai', 'Ukrainian', 'Захарович Бородай', 'Borodai']",4
+data/part1/VictorBahl_ComputerScientists_en.txt,"['Victor Bahl', '1964', 'us']",3
+data/part1/VictorBrauner_Sculptors_en.txt,"['Victor Brauner', 'Romanian']",2
+data/part1/VijaCelmins_Sculptors_en.txt,"['Vija Celmins', 'Vija Celmiņa']",2
+data/part1/VilhelmBissen_Sculptors_en.txt,"['christian', 'Christian', 'Danish', 'Bissen', 'Absalon', 'bissen', 'Vilhelm Bissen']",7
+data/part1/VinodDham_ComputerScientists_en.txt,"['Vinod Dham', 'india', 'India']",3
+data/part1/VintCerf_ComputerScientists_en.txt,"['Vinton gray cerf', 'Vinton Gray Cerf', 'American']",3
+data/part1/VladimirAleksandrovichBeklemishev_Sculptors_en.txt,"['Russian', 'Russia', 'Vladimir Aleksandrovich Beklemishev', 'Александрович Беклемишев']",4
+data/part1/VojinBakić_Sculptors_en.txt,"['75', 'Vojin Bakić', 'Војин Бакић', 'Bakić', 'Croatia']",5
+data/part1/W.BruceCroft_ComputerScientists_en.txt,"['Bruce Croft', 'W. Bruce Croft', 'Croft']",3
+data/part1/WalterAllward_Sculptors_en.txt,"['Canadian', 'canadian', '1955', 'Walter Seymour Allward', 'allward', 'Allward', 'Canada']",7
+data/part1/WalterS.Arnold_Sculptors_en.txt,"['american', 'Walter S. Arnold', 'American']",3
+data/part1/WattsHumphrey_ComputerScientists_en.txt,"['american', 'American', 'Watts S. Humphrey']",3
+data/part1/WendyHall_ComputerScientists_en.txt,"['Wendy Hall', 'British']",2
+data/part1/WhitfieldDiffie_ComputerScientists_en.txt,"['american', 'diffie', 'American', ""Bailey Whitfield '"", 'Diffie']",5
+data/part1/WilliamBloye_Sculptors_en.txt,"['1975', 'Bloye', 'English', 'William James Bloye']",4
+data/part1/WilliamBrodie_Sculptors_en.txt,"['Deacon Brodie', 'William Brodie']",2
+data/part1/WilliamKahan_ComputerScientists_en.txt,"['Canadian', '1989', 'Morton Kahan']",3
+data/part1/WilvanderAalst_ComputerScientists_en.txt,"['aalst', 'Aalst', 'van der', 'Dutch', 'Van der']",5
+data/part1/WimEbbinkhuijsen_ComputerScientists_en.txt,"['Wim Ebbinkhuijsen', 'Dutch', '1979']",3
+data/part1/WinifredAsprey_ComputerScientists_en.txt,"['american', 'American']",2
+data/part1/WoodyvanAmen_Sculptors_en.txt,"['Dutch', 'Wilhelmus Josephus']",2
+data/part1/WäinöAaltonen_Sculptors_en.txt,"['AALTONEN', 'aaltonen', 'finland', 'Finnish', 'finn', 'Finn', 'Valdemar Aaltonen', 'Aaltonen', 'valdemar aaltonen']",9
+data/part1/XiaomingFu_ComputerScientists_en.txt,['Xiaoming Fu'],1
+data/part1/YaacovAgam_Sculptors_en.txt,"['israeli', '11', 'Israeli']",3
+data/part1/YanhongAnnieLiu_ComputerScientists_en.txt,['Yanhong Annie Liu'],1
+data/part1/YannLeCun_ComputerScientists_en.txt,"['lecun', 'LeCun', 'Lecun', 'Le Cun', '2018', 'Yann André LeCun', 'French']",7
+data/part1/YannoulisChalepas_Sculptors_en.txt,"['Greek', 'Χαλεπάς', 'Yannoulis Chalepas']",3
+data/part1/YoavFreund_ComputerScientists_en.txt,"['1961', 'Yoav Freund', '2008', 'israeli']",4
+data/part1/YukihiroMatsumoto_ComputerScientists_en.txt,"['Matsumoto Yukihiro', 'Yukihiro Matsumoto', 'Japanese', 'Ruby', '2011', 'Matsumoto', 'matz', 'Matz']",8
+data/part1/YuriMatiyasevich_ComputerScientists_en.txt,"['matiyasevich', 'Russian', 'Matiyasevich', 'Yuri Vladimirovich Matiyasevich']",4
+data/part1/ZdzisławBeksiński_Sculptors_en.txt,"['Zdzisław Beksiński', 'Beksiński', 'Polish']",3
+data/part1/ZhouChaochen_ComputerScientists_en.txt,"['Zhou', 'Zhou Chaochen', 'zhou']",3
+data/part1/ZoharManna_ComputerScientists_en.txt,"['israeli', 'Zohar Manna', 'Israeli']",3
+data/part1/ZoubinGhahramani_ComputerScientists_en.txt,"['Zoubin Ghahramani', 'British', 'زوبین قهرمانی']",3
+data/part1/ZviGalil_ComputerScientists_en.txt,"['israeli', 'Israeli', 'Zvi Galil']",3
+data/part1/ÁngelBotello_Sculptors_en.txt,"['Puerto Rican', 'Botello', 'Barros', 'Ángel Botello', 'Spanish', 'botello']",6
+data/part1/ÁsmundurSveinsson_Sculptors_en.txt,['Ásmundur Sveinsson'],1

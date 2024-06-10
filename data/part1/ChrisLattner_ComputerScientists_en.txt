@@ -1,0 +1,3 @@
+Christopher Arthur Lattner (born 1978) is an American computer scientist and creator of LLVM, the Clang compiler, the Swift programming language and the MLIR compiler infrastructure.
+After his PhD in computer science, Lattner worked at Apple for 12 years, eventually leading the Developer Tools team.
+Between 2017 and 2022, Lattner worked in various positions for Tesla, Google and SiFive. He is currently co-founder and CEO of Modular AI, a company building an Artificial Intelligence developer platform.

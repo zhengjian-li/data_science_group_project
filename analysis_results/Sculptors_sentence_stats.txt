@@ -1,0 +1,4 @@
+Statistics for Sculptors
+- Minimum number of sentences: 1
+- Maximum number of sentences: 35
+- Average number of sentences: 3.795

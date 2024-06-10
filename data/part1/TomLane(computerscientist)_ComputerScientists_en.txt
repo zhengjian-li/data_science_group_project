@@ -1,0 +1,8 @@
+Thomas G. Lane is a computer scientist dedicated to open-source software. In a 2000 survey, he was listed as one of the top 10 contributors to an intended-to-be-representative sample of open-source software, having contributed 0.782% of the total code.
+Lane's contributions to open-source include:
+
+Organizer of the Independent JPEG Group (IJG),
+Member of the core steering committee of PostgreSQL
+Co-author of the Portable Network Graphics (PNG) specification
+Member of the Tagged Image File Format (TIFF) advisory committee
+Contributor to the Ptolemy Project

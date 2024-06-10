@@ -1,0 +1,4 @@
+Silhouette Score (TF-IDF_Json_200): 0.2841723692949875
+Adjusted Rand Index (TF-IDF_Json_200): 0.23398739025396265
+Fowlkes-Mallows Index (TF-IDF_Json_200): 0.6466307307242507
+Homogeneity Score (TF-IDF_Json_200): 0.32499357790771916

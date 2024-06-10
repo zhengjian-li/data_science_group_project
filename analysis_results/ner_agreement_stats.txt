@@ -1,0 +1,16 @@
+
+Computer Scientists
+Full agreement : 1390
+Full agreement with the same NE type : 859
+Partial agreement : 1287
+Partial agreement with the same NE type : 972
+Only predicted by Spacy : 896
+Only predicted by Stanza : 2147
+
+Sculptors
+Full agreement : 1304
+Full agreement with the same NE type : 775
+Partial agreement : 1235
+Partial agreement with the same NE type : 854
+Only predicted by Spacy : 927
+Only predicted by Stanza : 2069

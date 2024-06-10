@@ -1,0 +1,2 @@
+Andrew Wilson Appel (born 1960) is the Eugene Higgins Professor of computer science at Princeton University. He is especially well-known because of his compiler books, the Modern Compiler Implementation in ML (ISBN 0-521-58274-1) series, as well as Compiling With Continuations (ISBN 0-521-41695-7). He is also a major contributor to the Standard ML of New Jersey compiler, along with David MacQueen, John H. Reppy, Matthias Blume and others and one of the authors of Rog-O-Matic.
+

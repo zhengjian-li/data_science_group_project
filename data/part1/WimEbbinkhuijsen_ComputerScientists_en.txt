@@ -1,0 +1,5 @@
+Wim Ebbinkhuijsen (born 24 December 1939, Amsterdam) is a retired Dutch computer scientist who is considered to be one of the "fathers of COBOL".
+in 1979 he initiated the International ISO COBOL Working Group. 
+From 1967 he was a member, and from 1978 until 2003 he was the chairman of the Dutch COBOL Committee ("Nederlandse COBOL Commissie").
+From 1998 until 2001 he was also a member of the NCITS/ANSI COBOL committee X3J4. As such, he has designed and rewritten dozens parts of the current COBOL standard. He has been active for many years with Exin (EXamenINstituut, "Dutch examination Institute"), where he acted as member and later as chairman of the examining-board T2-COBOL. He has written many books about COBOL and he wrote the first International Standard for the programming language BASIC.
+At October 22, 2004 he left the COBOL world after 42 years of commitment, with a valedictory symposium in the auditorium of the Vrije Universiteit of Amsterdam. For his enormous contribution to COBOL he received an IEEE award, and invested as a Knight of the Order of Orange-Nassau (Ridder in de Orde van Oranje Nassau).

@@ -1,0 +1,3 @@
+William Daniel Hillis (born September 25, 1956) is an American inventor, entrepreneur, and computer scientist, who pioneered parallel computers and their use in artificial intelligence. He founded Thinking Machines Corporation, a parallel supercomputer manufacturer, and subsequently was Vice President of Research and Disney Fellow at Walt Disney Imagineering.
+Hillis was elected a member of the National Academy of Engineering in 2001 for advances in parallel computers, parallel software, and parallel storage.
+More recently, Hillis co-founded Applied Minds, and Applied Invention, an interdisciplinary group of engineers, scientists, and artists.

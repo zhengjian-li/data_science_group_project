@@ -1,0 +1,11 @@
+Statistics for Computer Scientists
+- Total number of bigrams: 22522
+- Minimum number of bigrams: 0
+- Maximum number of bigrams: 45
+- Average number of bigrams: 12.367929708951126
+*****************
+Statistics for Sculptors
+- Total number of bigrams: 17817
+- Minimum number of bigrams: 0
+- Maximum number of bigrams: 89
+- Average number of bigrams: 11.737154150197629

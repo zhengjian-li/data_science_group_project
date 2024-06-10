@@ -1,0 +1,2 @@
+Eldon Hall was the leader of hardware design efforts for the Apollo Guidance Computer (AGC) at MIT, and advocated the use of integrated circuits for this task. He wrote extensively of the development of the AGC, culminating in his 1996 book, Journey to the Moon: The History of the Apollo Guidance Computer (ISBN 1-56347-185-X)
+He pursued his undergraduate education at the Eastern Nazarene College in Quincy, Massachusetts, his graduate education at Boston University, and his doctoral degree at Harvard University (though he did not complete the PhD).

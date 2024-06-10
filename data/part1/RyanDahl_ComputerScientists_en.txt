@@ -1,0 +1,1 @@
+Ryan Dahl (born 1981) is an American software engineer who is best known for creating the Node.js JavaScript runtime as well as the Deno JavaScript/TypeScript runtime.

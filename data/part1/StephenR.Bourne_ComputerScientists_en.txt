@@ -1,0 +1,2 @@
+Stephen Richard "Steve" Bourne (born 7 January 1944) is an English computer scientist based in the United States for most of his career. He is well known as the author of the Bourne shell (sh), which is the foundation for the standard command-line interfaces to Unix.
+

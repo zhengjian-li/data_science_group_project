@@ -1,0 +1,2 @@
+Ratio of matching NEs with KG for Stanza: 0.41
+Ratio of matching NEs with KG for SpaCy: 0.43

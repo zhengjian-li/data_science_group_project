@@ -1,0 +1,1 @@
+Fernando José "Corby" Corbató (July 1, 1926 – July 12, 2019) was an American computer scientist, notable as a pioneer in the development of time-sharing operating systems.

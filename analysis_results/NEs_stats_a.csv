@@ -1,0 +1,5 @@
+Category,Recognizer,mean,min,max
+Computer Scientists,spacy,14.2725,2,79
+Computer Scientists,stanza,15.065,2,80
+Sculptors,spacy,13.1775,1,121
+Sculptors,stanza,13.6275,1,120

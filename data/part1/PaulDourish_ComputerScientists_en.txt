@@ -1,0 +1,8 @@
+Paul Dourish (born 1966) is a computer scientist best known for his work and research at the intersection of computer science and social science. Born in Scotland, he holds the Steckler Endowed Chair of Information and Computer Science  at the University of California, Irvine, where he joined the faculty in 2000,
+and where he directs the Steckler Center for Responsible, Ethical, and
+Accessible Technology.
+He is a Fellow of the AAAS,
+the ACM, and
+the BCS, and is a two-time winner of the ACM 
+CSCW "Lasting Impact" award, in 2016 and 2021.
+Dourish has published three books and over 100 scientific articles, and holds 19 US patents.

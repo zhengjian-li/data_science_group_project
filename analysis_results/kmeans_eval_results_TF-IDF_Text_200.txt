@@ -1,0 +1,4 @@
+Silhouette Score (TF-IDF_Text_200): 0.08869194978244226
+Adjusted Rand Index (TF-IDF_Text_200): 1.0
+Fowlkes-Mallows Index (TF-IDF_Text_200): 1.0
+Homogeneity Score (TF-IDF_Text_200): 1.0

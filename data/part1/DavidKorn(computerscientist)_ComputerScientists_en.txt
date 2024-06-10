@@ -1,0 +1,1 @@
+David Gerard Korn (August 28, 1943) is an American UNIX programmer and the author of the Korn shell (ksh), a command line interface/programming language.

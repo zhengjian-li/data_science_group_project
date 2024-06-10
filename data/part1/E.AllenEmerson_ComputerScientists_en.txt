@@ -1,0 +1,5 @@
+Ernest Allen Emerson II (born June 2, 1954), better known as E. Allen Emerson, is an American computer scientist and winner of the 2007 Turing Award. He is Professor and Regents Chair Emeritus at the University of Texas at Austin, United States.
+Emerson is recognized together with Edmund M. Clarke and Joseph Sifakis for the invention and
+development of model checking, a technique used in formal verification of software and hardware.
+His contributions to temporal logic and modal logic include the introduction of computation tree logic (CTL) and its extension CTL*, which are used in the verification of concurrent systems.
+He is also recognized along with others for developing symbolic model checking to address combinatorial explosion that arises in many model checking algorithms.

@@ -1,0 +1,1 @@
+Tin Kam Ho (Chinese: 何天琴) is a computer scientist at IBM Research with contributions to machine learning, data mining, and classification. Ho is noted for introducing random decision forests in 1995, and for her pioneering work in ensemble learning and data complexity analysis.  She is an IEEE fellow and IAPR fellow.

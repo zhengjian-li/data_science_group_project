@@ -1,0 +1,1 @@
+Robert Griesemer (born 1964) is a Swiss computer scientist. He is best known for his work on the Go programming language. Prior to Go, he worked on Google's V8 JavaScript engine, the Sawzall language, the Java HotSpot virtual machine, and the Strongtalk system.

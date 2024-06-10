@@ -1,0 +1,1 @@
+Friedrich Ludwig "Fritz" Bauer (10 June 1924 – 26 March 2015) was a German pioneer of computer science and professor at the Technical University of Munich.

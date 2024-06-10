@@ -1,0 +1,4 @@
+Silhouette Score (GloVe_Text): 0.19826531308458736
+Adjusted Rand Index (GloVe_Text): 0.9259405400113331
+Fowlkes-Mallows Index (GloVe_Text): 0.9627402925464812
+Homogeneity Score (GloVe_Text): 0.8670845177350033

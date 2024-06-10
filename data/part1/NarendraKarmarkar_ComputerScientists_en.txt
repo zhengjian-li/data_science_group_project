@@ -1,0 +1,2 @@
+Narendra Krishna Karmarkar (born circa 1956) is an Indian mathematician. Karmarkar developed Karmarkar's algorithm. He is listed as an ISI highly cited researcher.
+He invented one of the first provably polynomial time algorithms for linear programming, which is generally referred to as an interior point method. The algorithm is a cornerstone in the field of linear programming. He published his famous result in 1984 while he was working for Bell Laboratories in New Jersey.

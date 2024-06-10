@@ -1,0 +1,4 @@
+Silhouette Score (Word2Vec_Text): 0.5637260675430298
+Adjusted Rand Index (Word2Vec_Text): 0.02932706139167109
+Fowlkes-Mallows Index (Word2Vec_Text): 0.5225220782979966
+Homogeneity Score (Word2Vec_Text): 0.026756959405353616

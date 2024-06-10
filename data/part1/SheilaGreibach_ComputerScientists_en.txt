@@ -1,0 +1,3 @@
+Sheila Adele Greibach (born 6 October 1939 in New York City) is an American researcher in formal languages in computing, automata, compiler theory and computer science. She is an Emeritus Professor of Computer Science at the University of California, Los Angeles, and notable work include working with Seymour Ginsburg and Michael A. Harrison in context-sensitive parsing using the stack automaton model.
+Besides establishing the normal form (Greibach normal form) for context-free grammars, in 1965, she also investigated properties 
+of W-grammars, pushdown automata, and decidability problems.

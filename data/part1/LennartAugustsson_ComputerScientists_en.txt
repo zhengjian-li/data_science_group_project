@@ -1,0 +1,2 @@
+Lennart Augustsson is a Swedish computer scientist. He was formerly a lecturer at the Computing Science Department at Chalmers University of Technology. His research field is functional programming and implementations of functional programming languages.
+Augustsson has worked for Carlstedt Research and Technology, Sandburst, Credit Suisse, Standard Chartered Bank, Facebook, X Development, Google and is currently employed by Epic Games.

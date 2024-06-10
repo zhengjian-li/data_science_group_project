@@ -1,0 +1,6 @@
+Leonid Anatolievich Levin ( lay-oh-NEED LEV-in; Russian: Леони́д Анато́льевич Ле́вин; Ukrainian: Леоні́д Анато́лійович Ле́він; born November 2, 1948) is a Soviet-American mathematician and computer scientist. 
+He is known for his work in randomness in computing, algorithmic complexity and intractability, average-case complexity, foundations of mathematics and computer science, algorithmic probability, theory of computation, and information theory.  He obtained his master's degree at Moscow University in 1970 where he studied under Andrey Kolmogorov and completed the Candidate Degree academic requirements in 1972.
+He and Stephen Cook independently discovered the existence of NP-complete problems. This NP-completeness theorem, often called the Cook–Levin theorem, was a basis for one of the seven Millennium Prize Problems declared by the Clay Mathematics Institute with a $1,000,000 prize offered. The Cook–Levin theorem was a breakthrough in computer science and an important step in the development of the theory of computational complexity.
+Levin was awarded the Knuth Prize in 2012 for his discovery of NP-completeness and the development of average-case complexity.
+He is a member of the US National Academy of Sciences and
+a fellow of the American Academy of Arts and Sciences.

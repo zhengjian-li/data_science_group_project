@@ -1,0 +1,2 @@
+Kathleen Hylda Valerie Booth (née Britten, 9 July 1922 – 29 September 2022) was a British computer scientist and mathematician who wrote the first assembly language and designed the assembler and autocode for the first computer systems at Birkbeck College, University of London. She helped design three different machines including the ARC (Automatic Relay Calculator), SEC (Simple Electronic Computer), and APE(X)C.
+

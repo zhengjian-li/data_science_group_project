@@ -1,0 +1,2 @@
+Neil Daswani is a co-director of the Stanford Advanced Security Certification Program, and an expert in data security. He is the lead author of the book "Foundations of Security: What Every Programmer Needs To Know."
+In 2008, he co-founded Dasient, a web security company, along with another ex-Googler and Berkeley alum Shariq Rizvi, and former McKinsey strategy consultant Ameet Ranadive. Daswani was previously a product manager at Google.

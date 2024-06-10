@@ -1,0 +1,3 @@
+Yoav Freund (Hebrew: יואב פרוינד; born 1961) is an Israeli professor of computer science at the University of California San Diego who mainly works on machine learning, probability theory and related fields and applications. 
+He is an alumnus of the prestigious Talpiot program of the Israeli army.
+He is best known for his work on the AdaBoost algorithm, an ensemble learning algorithm which is used to combine many "weak" learning machines to create a more robust one. He and Robert Schapire received the Gödel prize in 2003 for their joint work on AdaBoost.  In 2004 he was awarded the Paris Kanellakis Award. He was elected an AAAI Fellow in 2008.

@@ -1,0 +1,3 @@
+John William Mauchly (August 30, 1907 – January 8, 1980) was an American physicist who, along with J. Presper Eckert, designed ENIAC, the first general-purpose electronic digital computer, as well as EDVAC, BINAC and UNIVAC I, the first commercial computer made in the United States.
+Together, Mauchly and Eckert started the first computer company, the Eckert–Mauchly Computer Corporation (EMCC), and pioneered fundamental computer concepts, including the stored program, subroutines, and programming languages. Their work, as exposed in the widely read First Draft of a Report on the EDVAC (1945) and as taught in the Moore School Lectures (1946), influenced an explosion of computer development in the late 1940s all over the world.
+

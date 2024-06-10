@@ -1,0 +1,4 @@
+Edward Fredkin (October 2, 1934 – June 13, 2023) was an American computer scientist, physicist and businessman who was an early pioneer of digital physics.
+Fredkin's primary contributions included work on reversible computing and cellular automata. While Konrad Zuse's book, Calculating Space (1969), mentioned the importance of reversible computation, the Fredkin gate represented the essential breakthrough. In more recent work, he used the term digital philosophy (DP).
+During his career, Fredkin was a professor of computer science at the Massachusetts Institute of Technology, a Fairchild Distinguished Scholar at Caltech, a distinguished career professor at Carnegie Mellon University, and a Research Professor of Physics at Boston University.
+

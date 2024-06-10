@@ -1,0 +1,3 @@
+Seymour Ginsburg (December 12, 1927 – December 5, 2004) was an American pioneer of  automata theory,  formal language theory, and
+database theory, in particular; and computer science, in general. His work was influential in distinguishing theoretical Computer Science from the disciplines of Mathematics and Electrical Engineering.
+During his career, Ginsburg published over 100 papers and three books on various topics in theoretical Computer Science.

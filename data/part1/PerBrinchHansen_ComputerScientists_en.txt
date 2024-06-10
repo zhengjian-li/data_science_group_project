@@ -1,0 +1,1 @@
+Per Brinch Hansen (13 November 1938 – 31 July 2007) was a Danish-American computer scientist known for his work in operating systems, concurrent programming and parallel and distributed computing.

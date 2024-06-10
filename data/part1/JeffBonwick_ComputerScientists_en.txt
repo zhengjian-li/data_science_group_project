@@ -1,0 +1,2 @@
+Jeff Bonwick invented and led development of the ZFS file system, which was used in Oracle Corporation's ZFS storage products as well as startups including Nexenta, Delphix, Joyent, and Datto, Inc.  Bonwick is also the inventor of slab allocation,  which is used in many operating systems including MacOS and Linux, and the LZJB compression algorithm.
+His roles included Sun Fellow, Sun Storage CTO, and Oracle vice president.

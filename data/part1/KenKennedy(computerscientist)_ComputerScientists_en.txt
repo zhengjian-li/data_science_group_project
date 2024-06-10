@@ -1,0 +1,10 @@
+Ken Kennedy (August 12, 1945 – February 7, 2007) was an American computer scientist and professor at Rice University. He was the founding chairman of Rice's Computer Science Department.
+Kennedy directed the construction of several substantial software systems for programming parallel computers, including an automatic vectorizer for Fortran 77, an integrated scientific programming environment, compilers for Fortran 90 and High Performance Fortran, and a compilation system for domain languages based on the numerical computing environment MATLAB.
+He wrote over 200 articles and book chapters, plus numerous conference addresses. Kennedy was elected to the National Academy of Engineering in 1990. He was named a Fellow of the AAAS in 1994 and of the ACM and IEEE in 1995. In recognition of his achievements in compilation for high performance computer systems, he was honored as the recipient of the 1995 W. W. McDowell Award, the highest research award of the IEEE Computer Society. From 1997 to 1999, he served as co-chair of the President's Information Technology Advisory Committee (PITAC). In 1999, he was named recipient of the ACM SIGPLAN Programming Languages Achievement Award, the third time this award was given. In 2005, he was elected to the American Academy of Arts and Sciences.
+Kennedy died of pancreatic cancer in Houston at the age of 61. At the time of his death he was the John and Ann Doerr University Professor in the department of Computer Science at Rice and the Director of the Center for High Performance Software Research (HiPerSoft).  As of November 20, 2006, he had directed the PhD dissertations of 38 graduate students and masters theses for 8 students.
+Kennedy's last publication was The rise and fall of High Performance Fortran: an historical object lesson, in which Kennedy discussed the general failure of the High Performance Fortran language which he had championed.
+On November 18, 2009, the ACM and 
+IEEE
+awarded the first Ken Kennedy CS Award
+to Francine Berman of Rensselaer Polytechnic Institute.
+The award was given at the ACM IEEE Supercomputing (or, "SC") '09 conference.

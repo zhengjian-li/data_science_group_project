@@ -1,0 +1,7 @@
+Carl Kesselman is an American computer scientist specializing in grid computing technologies.
+This term was developed by him and professor Ian Foster in the book The Grid: Blueprint for a New Computing Infrastructure. He and Foster are winners of the British Computer Society's Lovelace Medal for their grid work.
+He is institute fellow at the University of Southern California's Information Sciences Institute and a professor in the Epstein Department of Industrial and Systems Engineering, at the University of Southern California.
+Kesselman co-led the Globus Toolkit project, core technologies for computational grid systems in the areas of resource location, resource allocation, computer security, data communication, and data access. 
+He described a Globus testbed called GUSTO in 1997.
+He was elected as an ACM Fellow in 2017 and was awarded (with Ian Foster) the IEEE Computer Society Harry H Goode Memorial Award (2020) and IEEE Internet Award (2023).
+He received a PhD in computer science from UCLA in 1991.
